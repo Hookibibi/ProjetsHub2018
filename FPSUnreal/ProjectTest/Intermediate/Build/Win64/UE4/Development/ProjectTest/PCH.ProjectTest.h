@@ -1,4 +1,4 @@
-// PCH for R:\UE_4.20\Engine\Source\Runtime\Core\Public\CoreTypes.h
+// PCH for C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Core\Public\CoreTypes.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -38,7 +38,7 @@
 #define PROJECT_PRODUCT_IDENTIFIER ProjectTest
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
-#define UE_ENGINE_DIRECTORY "R:/UE_4.20/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../../../../../Program Files/Epic Games/UE_4.20/Engine/"
 #define ORIGINAL_FILE_NAME "ProjectTest.exe"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME 0
@@ -52,4 +52,4 @@
 #define WITH_MALLOC_STOMP 1
 #define CORE_API 
 #define PROJECTTEST_API 
-#include "R:\UE_4.20\Engine\Source\Runtime\Core\Public\CoreTypes.h"
+#include "C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Core\Public\CoreTypes.h"
