@@ -2,5 +2,16 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.20",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor",
+		"LinuxNoEditor"
+	]
 }
