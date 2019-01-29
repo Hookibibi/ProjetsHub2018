@@ -1,0 +1,25 @@
+25 Janvier : Objectif serveur / gameState
+- Fix serveur
+- Implémentation lobby / paramètres création de partie
+- Timer de la partie (fin de la partie, retour menu)
+- Lists des joueurs avec pseudo, équipe, score
+
+1 Février : Absent (Salon Vannes)
+- Gestion mort (Respawn / Identification du tueur)
+- Score
+- 1er mode de jeu : Match à mort
+
+8 février : Objectif Gameplay
+- Ajout deuxième arme : Fusil sniper
+- Rework mode de tir, ajout du bullet spread
+
+15 février : 
+- Ajout second mode de jeu : Capture de drapeau
+- Ajout choix d'équipe
+
+22 février :
+- Finalisation, correction de bugs
+
+En continu :
+- Level design
+- Création de cartes
