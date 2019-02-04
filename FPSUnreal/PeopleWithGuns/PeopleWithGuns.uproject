@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		}
+	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"WindowsNoEditor",

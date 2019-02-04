@@ -36,7 +36,7 @@
 /DELAYLOAD:"libogg_64.dll"
 /DELAYLOAD:"libvorbis_64.dll"
 /DELAYLOAD:"libvorbisfile_64.dll"
-/LIBPATH:"R:\UE_4.20\Engine\Source\ThirdParty\Steamworks\Steamv139\sdk\redistributable_bin\win64"
+/LIBPATH:"R:\UE_4.20\Engine\Source\ThirdParty\Steamworks\Steamv142\sdk\redistributable_bin\win64"
 /LIBPATH:"R:\UE_4.20\Engine\Source\ThirdParty\MikkTSpace\lib\Win64\VS2015"
 /LIBPATH:"R:\UE_4.20\Engine\Source\ThirdParty\OpenSubdiv\3.2.0\lib\Win64\VS2015\RelWithDebInfo"
 /LIBPATH:"R:\UE_4.20\Engine\Source\ThirdParty\OpenSSL\1.0.2g\lib\Win64\VS2015"
