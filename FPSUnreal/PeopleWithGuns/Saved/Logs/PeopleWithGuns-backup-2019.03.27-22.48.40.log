@@ -1,0 +1,1734 @@
+﻿Log file open, 03/27/19 21:14:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/PeopleWithGuns.uproject
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.244279
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.223s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Hookibibi" -epicuserid=e13323db472b437e907144303bb07345 -epiclocale=fr-FR
+LogInit: Base Directory: R:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.27-20.14.52:596][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.27-20.14.52:596][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.27-20.14.52:620][  0]LogHAL: Display: Platform has ~ 8 GB [8464732160 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.27-20.14.52:620][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.27-20.14.52:620][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.27-20.14.52:621][  0]LogInit: Computer: DESKTOP-FT66DED
+[2019.03.27-20.14.52:621][  0]LogInit: User: Malo
+[2019.03.27-20.14.52:621][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.03.27-20.14.52:621][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.27-20.14.52:622][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.27-20.14.52:622][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.27-20.14.52:622][  0]LogMemory: Process Physical Memory: 101.41 MB used, 101.41 MB peak
+[2019.03.27-20.14.52:622][  0]LogMemory: Process Virtual Memory: 96.20 MB used, 96.20 MB peak
+[2019.03.27-20.14.52:622][  0]LogMemory: Physical Memory: 3558.47 MB used,  4514.13 MB free, 8072.60 MB total
+[2019.03.27-20.14.52:622][  0]LogMemory: Virtual Memory: 4628.76 MB used,  4514.13 MB free, 134217728.00 MB total
+[2019.03.27-20.14.52:665][  0]LogInit: Using OS detected language (fr-FR).
+[2019.03.27-20.14.52:665][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.03.27-20.14.52:666][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.03.27-20.14.52:669][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2019.03.27-20.14.52:669][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.27-20.14.52:700][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.27-20.14.52:700][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.27-20.14.53:050][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.27-20.14.53:064][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2019.03.27-20.14.53:064][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.03.27-20.14.53:068][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.27-20.14.53:068][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.27-20.14.53:068][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.27-20.14.53:077][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.27-20.14.53:077][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.27-20.14.53:077][  0]LogWindows: EnumDisplayDevices:
+[2019.03.27-20.14.53:077][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2019.03.27-20.14.53:078][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.03.27-20.14.53:079][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.03.27-20.14.53:079][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.03.27-20.14.53:079][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2019.03.27-20.14.53:079][  0]LogD3D11RHI:   Driver Version: 22.20.16.4771 (internal:22.20.16.4771, unified:22.20.16.4771)
+[2019.03.27-20.14.53:079][  0]LogD3D11RHI:      Driver Date: 8-13-2017
+[2019.03.27-20.14.53:079][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2019.03.27-20.14.53:089][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.27-20.14.53:100][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.03.27-20.14.53:102][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Intermediate/Shaders/WorkingDirectory/6564/).
+[2019.03.27-20.14.53:102][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Malo/AppData/Local/Temp/UnrealShaderWorkingDir/9661213A4237B0B3A0EE0BA33BFE3675/'.
+[2019.03.27-20.14.53:496][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.27-20.14.53:512][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.27-20.14.53:528][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.27-20.14.53:543][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.27-20.14.53:559][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.27-20.14.53:574][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.27-20.14.53:591][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.27-20.14.53:606][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.27-20.14.53:613][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-20.14.53:733][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.27-20.14.53:804][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.27-20.14.53:804][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.27-20.14.53:839][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.27-20.14.53:839][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.27-20.14.53:858][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.27-20.14.53:879][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.27-20.14.53:899][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.27-20.14.53:918][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.27-20.14.53:930][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.27-20.14.53:930][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.27-20.14.53:992][  0]LogXGEController: Cleaning working directory: C:/Users/Malo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.27-20.14.53:992][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.27-20.14.53:992][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.27-20.14.53:992][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.27-20.14.55:025][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.27-20.14.55:099][  0]LogDerivedDataCache: Loaded boot cache 0.07s 70MB C:/Users/Malo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.27-20.14.55:100][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Malo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.27-20.14.55:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.27-20.14.55:100][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.27-20.14.55:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.27-20.14.55:100][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.27-20.14.55:123][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.27-20.14.55:136][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Malo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.27-20.14.55:136][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.27-20.14.55:136][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.27-20.14.55:161][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.27-20.14.55:162][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.27-20.14.55:163][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.27-20.14.55:247][  0]LogAssetRegistry: FAssetRegistry took 0.0293 seconds to start up
+[2019.03.27-20.14.55:723][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.27-20.14.55:807][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.27-20.14.55:813][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.27-20.14.55:813][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.27-20.14.55:813][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.27-20.14.55:813][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.27-20.14.55:992][  0]LogNetVersion: PeopleWithGuns 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1271298656)
+[2019.03.27-20.14.56:777][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.189759 seconds
+[2019.03.27-20.14.56:790][  0]LogUObjectArray: 38209 objects as part of root set at end of initial load.
+[2019.03.27-20.14.56:790][  0]LogUObjectAllocator: 6663656 out of 0 bytes used by permanent object pool.
+[2019.03.27-20.14.56:790][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.27-20.14.57:729][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.27-20.14.57:742][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.27-20.14.57:899][  0]SourceControl: Source control is disabled
+[2019.03.27-20.14.57:899][  0]SourceControl: Source control is disabled
+[2019.03.27-20.14.57:900][  0]SourceControl: Source control is disabled
+[2019.03.27-20.14.57:901][  0]SourceControl: Source control is disabled
+[2019.03.27-20.14.58:082][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.27-20.14.58:230][  0]LogOcInput: OculusInput pre-init called
+[2019.03.27-20.14.58:297][  0]LogEngine: Initializing Engine...
+[2019.03.27-20.14.58:300][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.27-20.14.58:300][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.27-20.14.58:300][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.27-20.14.58:300][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.27-20.14.58:562][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.27-20.14.58:572][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.27-20.14.58:606][  0]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-20.14.58:713][  0]LogInit: FAudioDevice initialized.
+[2019.03.27-20.14.58:713][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.27-20.14.58:813][  0]LogDerivedDataCache: Saved boot cache 0.10s 70MB C:/Users/Malo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.27-20.14.58:835][  0]LogInit: Texture streaming: Enabled
+[2019.03.27-20.14.58:850][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.27-20.14.58:851][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={9D357CDD-49FF-9D47-577C-EAA3FDA88E6D}
+[2019.03.27-20.14.58:865][  0]LogInit: Transaction tracking system initialized
+[2019.03.27-20.14.58:885][  0]BlueprintLog: New page: Editor Load
+[2019.03.27-20.14.58:970][  0]LocalizationService: Localization service is disabled
+[2019.03.27-20.14.59:369][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.27-20.14.59:369][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.27-20.14.59:369][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.27-20.14.59:369][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.27-20.14.59:369][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.27-20.14.59:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.27-20.14.59:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.27-20.14.59:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/' took 0.07s
+[2019.03.27-20.14.59:539][  0]SourceControl: Source control is disabled
+[2019.03.27-20.14.59:539][  0]Cmd: MAP LOAD FILE="C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.27-20.14.59:539][  0]LightingResults: New page: Lighting Build
+[2019.03.27-20.14.59:542][  0]MapCheck: New page: Map Check
+[2019.03.27-20.14.59:542][  0]LightingResults: New page: Lighting Build
+[2019.03.27-20.14.59:898][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.27-20.14.59:899][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.27-20.14.59:924][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.27-20.14.59:990][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65,773ms to complete.
+[2019.03.27-20.14.59:990][  0]LogFileHelpers: Loading map 'MainMenu' took 0.451
+[2019.03.27-20.15.00:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-20.15.00:111][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-20.15.00:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-20.15.00:131][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-20.15.00:138][  0]LogCollectionManager: Loaded 0 collections in 0.002366 seconds
+[2019.03.27-20.15.00:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Collections/' took 0.01s
+[2019.03.27-20.15.00:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/Developers/Malo/Collections/' took 0.01s
+[2019.03.27-20.15.00:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/Collections/' took 0.01s
+[2019.03.27-20.15.00:179][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.27-20.15.00:191][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2572 classes and 602 folders.
+[2019.03.27-20.15.00:196][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.27-20.15.00:257][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.27-20.15.00:264][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.03.27-20.15.00:359][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.27-20.15.00:365][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.27-20.15.00:368][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.27-20.15.00:449][  0]LogRenderer: Reallocating scene render targets to support 1528x536 Format 9 NumSamples 1 (Frame:1).
+[2019.03.27-20.15.01:113][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.27-20.15.01:113][  0]LogLoad: (Engine Initialization) Total time: 12.02 seconds
+[2019.03.27-20.15.01:113][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.27-20.15.01:149][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.03.27-20.15.01:190][  0]LogRenderer: Reallocating scene render targets to support 1528x552 Format 9 NumSamples 1 (Frame:3).
+[2019.03.27-20.15.01:258][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.27-20.15.01:553][  2]LogAssetRegistry: Asset discovery search completed in 6.3280 seconds
+[2019.03.27-20.15.01:555][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.27-20.15.01:555][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.03.27-20.15.02:536][  5]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.27-20.25.08:621][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.25.16:387][177]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-20.25.16:431][177]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Arena01.Arena01
+[2019.03.27-20.25.16:505][177]Cmd: MAP LOAD FILE="C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/ThirdPersonBP/Maps/Arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.27-20.25.16:505][177]LightingResults: New page: Lighting Build
+[2019.03.27-20.25.16:507][177]LoadErrors: New page: Loading map: Arena01.umap
+[2019.03.27-20.25.16:509][177]MapCheck: New page: Map Check
+[2019.03.27-20.25.16:509][177]LightingResults: New page: Lighting Build
+[2019.03.27-20.25.16:900][177]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.27-20.25.16:986][177]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.27-20.25.17:148][177]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 161,418ms to complete.
+[2019.03.27-20.25.17:150][177]LogFileHelpers: Loading map 'Arena01' took 0.646
+[2019.03.27-20.25.28:127][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.25.32:768][791]Cmd: EDIT COPY
+[2019.03.27-20.25.34:449][851]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.27-20.25.35:055][880]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.27-20.25.37:648][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.25.40:332][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.25.41:123][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.03.27-20.25.47:729][449]Cmd: EDIT COPY
+[2019.03.27-20.25.50:675][592]Cmd: TRANSACTION UNDO
+[2019.03.27-20.25.50:675][592]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.25.51:639][647]Cmd: EDIT PASTE
+[2019.03.27-20.26.02:333][958]Cmd: DELETE
+[2019.03.27-20.26.02:333][958]Cmd: ACTOR DELETE
+[2019.03.27-20.26.02:343][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.26.02:367][958]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.03.27-20.26.10:176][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.26.35:156][663]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2019.03.27-20.26.35:660][676]LogActorFactory: Actor Factory created Shape_Wedge_B
+[2019.03.27-20.26.39:316][848]Cmd: DELETE
+[2019.03.27-20.26.39:316][848]Cmd: ACTOR DELETE
+[2019.03.27-20.26.39:320][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.26.39:348][848]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.03.27-20.26.40:636][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.28.24:707][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.03.27-20.28.25:666][ 70]Cmd: DELETE
+[2019.03.27-20.28.25:666][ 70]Cmd: ACTOR DELETE
+[2019.03.27-20.28.25:669][ 70]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.28.25:694][ 70]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.03.27-20.28.26:507][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.03.27-20.28.27:061][143]Cmd: DELETE
+[2019.03.27-20.28.27:062][143]Cmd: ACTOR DELETE
+[2019.03.27-20.28.27:064][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.28.27:087][143]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.27-20.28.29:672][298]Cmd: TRANSACTION UNDO
+[2019.03.27-20.28.29:672][298]LogEditorTransaction: Undo Delete Actors
+[2019.03.27-20.28.29:941][305]Cmd: TRANSACTION UNDO
+[2019.03.27-20.28.29:941][305]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.28.31:176][377]Cmd: TRANSACTION UNDO
+[2019.03.27-20.28.31:176][377]LogEditorTransaction: Undo Delete Actors
+[2019.03.27-20.28.40:303][815]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.27-20.28.41:556][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.03.27-20.28.45:069][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.03.27-20.28.47:732][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.03.27-20.28.50:632][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.28.55:403][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.29.04:627][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.29.15:139][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.03.27-20.29.19:637][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.29.21:223][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.29.30:331][948]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.30:331][948]LogEditorTransaction: Undo Scale Actors
+[2019.03.27-20.29.30:673][966]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.30:673][966]LogEditorTransaction: Undo Scale Actors
+[2019.03.27-20.29.41:331][411]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.27-20.29.47:201][647]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.47:202][647]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.47:431][657]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.47:431][657]LogEditorTransaction: Undo Scale Actors
+[2019.03.27-20.29.47:686][670]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.47:686][670]LogEditorTransaction: Undo Scale Actors
+[2019.03.27-20.29.48:199][698]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.48:199][698]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.48:675][725]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.48:675][725]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.49:040][745]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.49:041][745]LogEditorTransaction: Undo Scale Actors
+[2019.03.27-20.29.49:524][773]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.49:524][773]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.49:893][793]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.49:893][793]LogEditorTransaction: Undo Scale Actors
+[2019.03.27-20.29.50:325][818]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.50:325][818]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.29.50:788][845]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.50:788][845]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.29.51:183][868]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.51:183][868]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.51:595][891]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.51:595][891]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.52:003][913]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.52:003][913]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.29.52:494][941]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.52:494][941]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.52:938][965]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.52:938][965]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.29.53:327][986]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.53:327][986]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.54:451][ 49]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.54:451][ 49]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.29.54:899][ 74]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.54:899][ 74]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.55:299][ 96]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.55:299][ 96]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.27-20.29.55:682][117]Cmd: TRANSACTION UNDO
+[2019.03.27-20.29.55:682][117]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.32.01:834][931]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{0d1c6af1-3e24-4e75-b740-6a81a721cc11} was removed. Shutting down audio device.
+[2019.03.27-20.32.01:834][931]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-20.32.10:306][956]LogAudio: Error: GetDeviceCount error: Unhandled error code -2147024809
+[2019.03.27-20.32.10:306][956]LogInit: No audio devices found!
+[2019.03.27-20.32.10:631][957]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-20.32.13:055][964]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-20.32.21:825][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.32.40:388][189]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.27-20.32.49:169][819]LogSlate: Window 'New Level' being destroyed
+[2019.03.27-20.32.57:014][819]LogSlate: Window 'Save Content' being destroyed
+[2019.03.27-20.32.57:477][819]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Arena0161F1429443892F81AF32E0A240ABBC78.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/ThirdPersonBP/Maps/Arena01.umap'
+[2019.03.27-20.32.57:525][819]LogFileHelpers: Saving map 'Arena01' took 0.477
+[2019.03.27-20.32.57:531][819]LightingResults: New page: Lighting Build
+[2019.03.27-20.32.57:533][819]MapCheck: New page: Map Check
+[2019.03.27-20.32.57:533][819]LightingResults: New page: Lighting Build
+[2019.03.27-20.32.57:561][819]LogAIModule: Creating AISystem for world Untitled
+[2019.03.27-20.32.57:638][819]LoadErrors: New page: New Map
+[2019.03.27-20.37.30:947][299]LogRenderer: Reallocating scene render targets to support 1528x644 Format 9 NumSamples 1 (Frame:52).
+[2019.03.27-20.41.46:713][915]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-20.41.46:725][915]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Arena01.Arena01
+[2019.03.27-20.41.46:750][915]Cmd: MAP LOAD FILE="C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/ThirdPersonBP/Maps/Arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.27-20.41.46:750][915]LightingResults: New page: Lighting Build
+[2019.03.27-20.41.46:751][915]LoadErrors: New page: Loading map: Arena01.umap
+[2019.03.27-20.41.46:752][915]MapCheck: New page: Map Check
+[2019.03.27-20.41.46:752][915]LightingResults: New page: Lighting Build
+[2019.03.27-20.41.46:908][915]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.27-20.41.46:973][915]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.27-20.41.47:077][915]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103,967ms to complete.
+[2019.03.27-20.41.47:077][915]LogFileHelpers: Loading map 'Arena01' took 0.328
+[2019.03.27-20.41.56:223][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.03.27-20.42.01:010][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-20.42.07:432][689]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.27-20.42.07:744][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.42.08:786][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.03.27-20.42.14:097][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.42.16:083][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.42.23:936][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.42.27:123][662]Cmd: TRANSACTION UNDO
+[2019.03.27-20.42.27:123][662]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.42.31:762][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.03.27-20.42.36:420][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.03.27-20.42.37:793][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.42.46:393][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.42.50:410][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.42.54:681][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.43.29:721][ 58]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-20.43.29:721][ 58]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-20.43.34:410][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.43.36:954][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.03.27-20.43.44:972][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.44.08:877][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.45.32:401][236]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-20.45.32:401][236]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-20.45.44:446][934]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2019.03.27-20.45.54:191][366]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2019.03.27-20.45.57:596][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.46.01:913][756]Cmd: EDIT COPY
+[2019.03.27-20.46.02:961][813]Cmd: EDIT PASTE
+[2019.03.27-20.46.06:824][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.46.07:016][999]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2019.03.27-20.46.10:680][172]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2019.03.27-20.46.22:861][804]Cmd: DELETE
+[2019.03.27-20.46.22:861][804]Cmd: ACTOR DELETE
+[2019.03.27-20.46.22:864][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.22:889][804]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.03.27-20.46.24:897][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.03.27-20.46.25:747][949]Cmd: DELETE
+[2019.03.27-20.46.25:747][949]Cmd: ACTOR DELETE
+[2019.03.27-20.46.25:749][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.25:771][949]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.03.27-20.46.26:263][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.03.27-20.46.26:403][979]Cmd: DELETE
+[2019.03.27-20.46.26:403][979]Cmd: ACTOR DELETE
+[2019.03.27-20.46.26:406][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.26:429][979]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.27-20.46.27:165][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.03.27-20.46.27:379][ 26]Cmd: DELETE
+[2019.03.27-20.46.27:379][ 26]Cmd: ACTOR DELETE
+[2019.03.27-20.46.27:381][ 26]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.27:405][ 26]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.27-20.46.28:057][ 65]LogEditorViewport: Clicking on Actor (LMB): painTest_C (painTest)
+[2019.03.27-20.46.29:446][142]Cmd: DELETE
+[2019.03.27-20.46.29:446][142]Cmd: ACTOR DELETE
+[2019.03.27-20.46.29:450][142]LogEditorActor: Deleted Actor: painTest_C
+[2019.03.27-20.46.29:472][142]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.27-20.46.29:932][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.03.27-20.46.30:233][176]Cmd: DELETE
+[2019.03.27-20.46.30:233][176]Cmd: ACTOR DELETE
+[2019.03.27-20.46.30:236][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.30:260][176]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.27-20.46.30:743][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.03.27-20.46.30:951][211]Cmd: DELETE
+[2019.03.27-20.46.30:951][211]Cmd: ACTOR DELETE
+[2019.03.27-20.46.30:954][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.30:979][211]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.03.27-20.46.31:768][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.03.27-20.46.31:971][262]Cmd: DELETE
+[2019.03.27-20.46.31:971][262]Cmd: ACTOR DELETE
+[2019.03.27-20.46.31:973][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.31:998][262]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.03.27-20.46.32:547][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.03.27-20.46.32:734][299]Cmd: DELETE
+[2019.03.27-20.46.32:734][299]Cmd: ACTOR DELETE
+[2019.03.27-20.46.32:738][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.27-20.46.32:762][299]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.03.27-20.46.43:052][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-20.46.58:631][631]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.27-20.46.59:894][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2019.03.27-20.47.01:657][801]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.27-20.47.02:241][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.47.02:806][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.47.03:335][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2019.03.27-20.47.04:393][949]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.27-20.47.04:994][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2019.03.27-20.47.10:418][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-20.47.19:574][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.47.19:775][710]LogActorFactory: Actor Factory created Wall_400x400
+[2019.03.27-20.47.25:378][967]LogActorFactory: Actor Factory created Wall_400x400
+[2019.03.27-20.47.27:742][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2019.03.27-20.47.29:500][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2019.03.27-20.47.31:381][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.47.36:938][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.47.38:226][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2019.03.27-20.47.45:018][960]Cmd: EDIT COPY
+[2019.03.27-20.47.45:726][998]Cmd: EDIT PASTE
+[2019.03.27-20.47.49:476][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.48.14:315][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2019.03.27-20.48.15:404][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2019.03.27-20.48.16:028][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.48.16:756][179]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.27-20.48.17:333][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.48.17:782][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.48.18:284][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2019.03.27-20.48.23:316][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-20.48.57:800][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.49.00:091][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-20.49.53:089][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.50.16:475][223]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.03.27-20.50.16:591][223]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.27-20.50.16:591][223]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-20.50.16:591][223]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-20.50.22:487][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.50.30:109][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.50.30:230][638]LogMaterial: Display: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2019.03.27-20.50.34:026][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.50.34:477][756]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.27-20.50.35:545][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.50.36:295][811]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-20.50.37:798][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.50.39:752][935]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-20.50.39:960][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.50.40:519][945]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Arena011B0E9E8B40C010C7F282F6957A34AC52.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/ThirdPersonBP/Maps/Arena01.umap'
+[2019.03.27-20.50.41:365][945]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Arena01_BuiltData62EF887A4E50809BDF21B8BF02107961.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/ThirdPersonBP/Maps/Arena01_BuiltData.uasset'
+[2019.03.27-20.53.52:309][143]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.27-20.53.53:191][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2019.03.27-20.53.59:260][425]Cmd: EDIT COPY
+[2019.03.27-20.54.00:191][473]Cmd: EDIT PASTE
+[2019.03.27-20.54.16:731][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.54.27:180][155]Cmd: EDIT COPY
+[2019.03.27-20.54.28:730][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.54.31:562][303]Cmd: TRANSACTION UNDO
+[2019.03.27-20.54.31:562][303]LogEditorTransaction: Undo Move Actors
+[2019.03.27-20.54.32:823][354]Cmd: EDIT PASTE
+[2019.03.27-20.54.40:897][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.54.46:813][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2019.03.27-20.54.47:561][933]Cmd: EDIT COPY
+[2019.03.27-20.54.48:489][969]Cmd: EDIT PASTE
+[2019.03.27-20.54.49:440][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.54.52:485][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2019.03.27-20.55.09:417][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.55.29:284][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x404)
+[2019.03.27-20.55.30:222][479]Cmd: EDIT COPY
+[2019.03.27-20.55.31:139][523]Cmd: EDIT PASTE
+[2019.03.27-20.55.35:736][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.55.38:311][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2019.03.27-20.55.50:068][432]Cmd: EDIT PASTE
+[2019.03.27-20.56.05:195][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2019.03.27-20.56.07:052][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.56.11:032][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2019.03.27-20.56.15:200][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2019.03.27-20.56.18:792][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.56.25:317][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2019.03.27-20.56.27:353][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.56.29:152][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x402)
+[2019.03.27-20.56.35:290][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.56.35:888][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x406)
+[2019.03.27-20.56.51:719][384]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.03.27-20.56.53:442][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2019.03.27-20.56.56:679][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.56.57:202][597]Cmd: EDIT COPY
+[2019.03.27-20.57.02:469][711]Cmd: EDIT COPY
+[2019.03.27-20.57.04:005][780]Cmd: EDIT PASTE
+[2019.03.27-20.57.04:189][781]LogSlate: Took 0.013672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.27-20.57.08:716][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.57.20:935][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x406)
+[2019.03.27-20.57.21:923][281]Cmd: EDIT COPY
+[2019.03.27-20.57.22:865][331]Cmd: EDIT PASTE
+[2019.03.27-20.57.24:942][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.57.29:787][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.57.53:479][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.57.55:233][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x408)
+[2019.03.27-20.58.01:985][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x407)
+[2019.03.27-20.58.03:409][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.58.08:137][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x408)
+[2019.03.27-20.58.11:008][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-20.58.11:815][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x408)
+[2019.03.27-20.58.17:942][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.58.45:564][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.58.55:264][106]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2019.03.27-20.58.57:481][165]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2019.03.27-20.58.58:682][215]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2019.03.27-20.59.00:801][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.00.19:922][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.00.21:172][956]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.03.27-21.00.29:509][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.00.42:192][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.01.14:037][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.01.27:530][814]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.03.27-21.01.37:212][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.01.43:315][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.01.47:574][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.01.50:866][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.02.00:052][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.02.07:541][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.02.13:219][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.03.27-21.02.18:514][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.02.28:587][527]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.02.28:587][527]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.02.43:473][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.03.51:085][453]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Arena01_Auto1819E0575487DCBFDE709C888F5CE879D.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Autosaves/Game/ThirdPersonBP/Maps/Arena01_Auto1.umap'
+[2019.03.27-21.03.51:094][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Arena01' took 0.430
+[2019.03.27-21.03.51:094][453]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.430
+[2019.03.27-21.05.34:314][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.05.48:428][645]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_D (AutoDXT, 1024X1024)
+[2019.03.27-21.05.48:768][645]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_N (BC5, 1024X1024)
+[2019.03.27-21.05.48:768][645]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.05.48:792][645]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.05.48:792][645]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.05.52:551][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.05.59:235][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-21.06.02:790][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.06.09:252][454]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.03.27-21.06.09:272][454]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.06.13:389][454]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.06.13:390][454]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.06.13:430][454]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.03.27-21.06.13:558][454]LogTexture: Display: Building textures: T_M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB_BaseColor (BGRA8, 128X128)
+[2019.03.27-21.06.13:563][454]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.03.27-21.06.13:564][454]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.03.27-21.06.13:564][454]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.03.27-21.06.13:588][454]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.03.27-21.06.20:359][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.06.20:506][812]LogShaderCompilers: Display: Shaders left to compile 336
+[2019.03.27-21.06.20:954][836]LogShaderCompilers: Display: Shaders left to compile 326
+[2019.03.27-21.06.24:100][ 12]LogShaderCompilers: Display: Shaders left to compile 316
+[2019.03.27-21.06.31:644][141]LogShaderCompilers: Display: Shaders left to compile 306
+[2019.03.27-21.06.32:979][167]LogShaderCompilers: Display: Shaders left to compile 296
+[2019.03.27-21.06.33:273][174]LogShaderCompilers: Display: Shaders left to compile 286
+[2019.03.27-21.06.37:096][266]LogShaderCompilers: Display: Shaders left to compile 276
+[2019.03.27-21.06.40:832][313]LogShaderCompilers: Display: Shaders left to compile 266
+[2019.03.27-21.06.42:825][363]LogShaderCompilers: Display: Shaders left to compile 256
+[2019.03.27-21.06.43:000][368]LogShaderCompilers: Display: Shaders left to compile 246
+[2019.03.27-21.06.45:319][396]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.06.45:319][396]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.06.48:933][522]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.06.48:933][522]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.06.53:599][633]LogShaderCompilers: Display: Shaders left to compile 236
+[2019.03.27-21.06.54:788][661]LogShaderCompilers: Display: Shaders left to compile 226
+[2019.03.27-21.06.55:177][672]LogShaderCompilers: Display: Shaders left to compile 216
+[2019.03.27-21.07.01:284][783]LogShaderCompilers: Display: Shaders left to compile 206
+[2019.03.27-21.07.01:749][798]LogShaderCompilers: Display: Shaders left to compile 196
+[2019.03.27-21.07.03:979][860]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.03.27-21.07.05:808][907]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.03.27-21.07.08:026][962]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.03.27-21.07.09:308][993]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.03.27-21.07.09:371][995]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.03.27-21.07.11:789][ 60]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.03.27-21.07.17:334][203]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.03.27-21.07.17:457][206]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.03.27-21.07.17:658][212]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.03.27-21.07.23:042][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-21.07.29:407][769]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.03.27-21.07.29:663][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.07.35:776][159]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.27-21.07.39:086][359]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.27-21.07.39:644][394]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.27-21.07.52:561][148]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.27-21.07.52:574][149]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.27-21.07.53:906][229]Cmd: EDIT COPY
+[2019.03.27-21.07.54:463][260]Cmd: EDIT PASTE
+[2019.03.27-21.07.55:180][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.07.59:135][448]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.27-21.08.03:848][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.07:024][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.08:571][860]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.27-21.08.13:579][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.13:814][ 99]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.08.17:946][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.19:000][297]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.08.22:314][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.24:620][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.29:800][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.38:497][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.43:343][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.46:822][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.50:246][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.08.55:623][196]Cmd: DUPLICATE
+[2019.03.27-21.08.55:623][196]Cmd: ACTOR DUPLICATE
+[2019.03.27-21.09.00:481][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.09.04:397][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.09.19:071][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.09.26:489][356]Cmd: DELETE
+[2019.03.27-21.09.26:489][356]Cmd: ACTOR DELETE
+[2019.03.27-21.09.26:499][356]LogEditorActor: Deleted Actor: Brush
+[2019.03.27-21.09.26:534][356]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.03.27-21.09.32:929][773]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.09.32:929][773]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.09.41:829][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-21.09.48:243][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.09.55:015][755]Cmd: EDIT COPY
+[2019.03.27-21.09.59:560][932]Cmd: EDIT PASTE
+[2019.03.27-21.10.00:686][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.10.06:460][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.10.15:731][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.10.22:883][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.10.32:119][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.10.43:517][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.10.53:156][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.11.22:609][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.03.27-21.11.32:724][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.11.58:583][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.11.58:658][750]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-21.11.58:710][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.11.58:713][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-21.11.58:730][750]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.03.27-21.11.58:731][750]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.03.27-21.11.58:756][750]PIE: New page: PIE session: Arena01 (27 mars 2019 23:11:58)
+[2019.03.27-21.11.58:758][750]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01
+[2019.03.27-21.11.58:795][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035996s)
+[2019.03.27-21.11.58:810][750]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-21.11.58:815][750]LogPlayLevel: PIE: World Init took: (0.019806s)
+[2019.03.27-21.11.58:816][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Arena01.Arena01 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01 (0.057549s)
+[2019.03.27-21.11.58:916][750]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-21.11.58:941][750]LogInit: FAudioDevice initialized.
+[2019.03.27-21.11.59:007][750]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-21.11.59:028][750]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 0) at 2019.03.27-22.11.59
+[2019.03.27-21.11.59:034][750]LogWorld: Bringing up level for play took: 0.012089
+[2019.03.27-21.11.59:088][750]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 10 classes and 0 folders.
+[2019.03.27-21.11.59:104][750]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.11.59:105][750]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.03.27-21.11.59:105][750]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.11.59:106][750]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.03.27-21.11.59:107][750]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.27-21.11.59:108][750]LogInit: WinSock: I am DESKTOP-FT66DED (10.0.75.1:0)
+[2019.03.27-21.11.59:109][750]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.11.59:111][750]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2019.03.27-21.11.59:117][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.11.59:149][750]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01 0,586
+[2019.03.27-21.11.59:150][750]PIE: New page: PIE session: Arena01 (27 mars 2019 23:11:59)
+[2019.03.27-21.11.59:158][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.11.59:167][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.11.59:214][750]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/MainMenu
+[2019.03.27-21.11.59:215][750]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.11.59:215][750]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.03.27-21.11.59:215][750]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.03.27-21.11.59:215][750]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.03.27-21.11.59:217][750]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.11.59:218][750]LogNet: Game client on port 17777, rate 10000
+[2019.03.27-21.11.59:225][750]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/MainMenu 0,661
+[2019.03.27-21.11.59:237][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.11.59:240][750]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53676
+[2019.03.27-21.11.59:240][750]LogHandshake: SendConnectChallenge. Timestamp: 0.011534, Cookie: 015185070014159149081053046150138229108103017182246146185121
+[2019.03.27-21.11.59:264][750]LogHandshake: SendChallengeResponse. Timestamp: 0.011534, Cookie: 015185070014159149081053046150138229108103017182246146185121
+[2019.03.27-21.11.59:608][751]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53676
+[2019.03.27-21.11.59:608][751]LogHandshake: SendChallengeAck. InCookie: 015185070014159149081053046150138229108103017182246146185121
+[2019.03.27-21.11.59:608][751]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53676
+[2019.03.27-21.11.59:609][751]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.11.59:610][751]LogNet: NotifyAcceptedConnection: Name: Arena01, TimeStamp: 03/27/19 22:11:59, [UNetConnection] RemoteAddr: 127.0.0.1:53676, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.11.59:610][751]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53676, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.11.59:614][751]LogNetVersion: PeopleWithGuns 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3703576562)
+[2019.03.27-21.11.59:614][751]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.11.59:656][752]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01: Accepted
+[2019.03.27-21.11.59:657][752]LogNet: Remote platform little endian=1
+[2019.03.27-21.11.59:657][752]LogNet: This platform little endian=1
+[2019.03.27-21.11.59:710][753]LogNet: Login request: /Game/ThirdPersonBP/Maps/MainMenu?Name=DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F userId: DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F
+[2019.03.27-21.11.59:714][753]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01, Game: /Game/ThirdPersonBP/Blueprints/Gameplay/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.03.27-21.11.59:715][753]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01?game=/Game/ThirdPersonBP/Blueprints/Gameplay/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.03.27-21.11.59:774][753]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-21.11.59:774][753]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.11.59:778][753]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Arena01.Arena01 up for play (max tick rate 0) at 2019.03.27-22.11.59
+[2019.03.27-21.11.59:778][753]LogWorld: Bringing up level for play took: 0.003013
+[2019.03.27-21.11.59:779][753]LogLoad: Took 0.064694 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01)
+[2019.03.27-21.11.59:906][754]LogNet: Client netspeed is 10000
+[2019.03.27-21.11.59:906][754]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMenu?Name=DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F?SplitscreenCount=1
+[2019.03.27-21.11.59:907][754]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.11.59:922][754]LogNet: Join succeeded: DESKTOP-FT66DED-FC54
+[2019.03.27-21.12.00:063][755]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_1.StaticMeshComponent_0 NOT Supported.
+[2019.03.27-21.12.00:063][755]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_1.DrawFrustumComponent_0 NOT Supported.
+[2019.03.27-21.12.00:063][755]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_0.StaticMeshComponent_0 NOT Supported.
+[2019.03.27-21.12.00:063][755]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_0.DrawFrustumComponent_0 NOT Supported.
+[2019.03.27-21.12.00:106][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.12.00:109][756]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.12.00:109][756]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.12.00:118][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.12.20:476][133]LogRenderer: Reallocating scene render targets to support 1528x644 Format 9 NumSamples 1 (Frame:381).
+[2019.03.27-21.12.20:647][138]LogContentStreaming: Texture pool size now 400 MB
+[2019.03.27-21.12.23:803][256]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.12.23:804][256]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.12.25:203][276]LogRenderer: Reallocating scene render targets to support 1528x644 Format 9 NumSamples 1 (Frame:525).
+[2019.03.27-21.12.25:241][276]LogRenderer: Reallocating scene render targets to support 1528x744 Format 9 NumSamples 1 (Frame:524).
+[2019.03.27-21.12.25:388][278]LogContentStreaming: Texture pool size now 600 MB
+[2019.03.27-21.12.26:940][298]LogRenderer: Reallocating scene render targets to support 1528x744 Format 9 NumSamples 1 (Frame:548).
+[2019.03.27-21.12.26:963][299]LogContentStreaming: Texture pool size now 400 MB
+[2019.03.27-21.12.29:332][386]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.12.29:332][386]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.13.03:058][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.13.03:059][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.13.03:122][513]LogSlate: Window 'PeopleWithGuns Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.27-21.13.03:181][513]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.03.27-21.13.03:181][513]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.03.27-21.13.03:183][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.13.03:222][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-21.13.03:223][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.13.03:266][513]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53676, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F
+[2019.03.27-21.13.03:266][513]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53676, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F, Channels: 2, Time: 2019.03.27-21.13.03
+[2019.03.27-21.13.03:266][513]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53676, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F
+[2019.03.27-21.13.03:266][513]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F
+[2019.03.27-21.13.03:266][513]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F, Channels: 2, Time: 2019.03.27-21.13.03
+[2019.03.27-21.13.03:266][513]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-FC54E9CD477BAB2DE247C69CB077F21F
+[2019.03.27-21.13.03:274][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.13.03:288][513]LogExit: GameNetDriver None shut down
+[2019.03.27-21.13.03:289][513]LogExit: GameNetDriver None shut down
+[2019.03.27-21.13.03:403][514]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.27-21.13.03:403][514]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.27-21.13.04:552][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-21.13.10:053][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.14.05:722][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.07:623][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.08:983][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.11:836][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.13:212][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.14:344][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.15:390][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.16:712][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.18:013][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.19:471][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.21:308][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.22:875][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.24:453][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.25:857][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.27:651][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.29:368][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.32:651][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.34:401][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.37:083][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.39:801][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.41:009][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.43:577][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.45:607][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.47:375][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.49:353][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.53:343][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.54:936][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.57:524][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.14.59:122][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.01:265][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.02:726][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.03:839][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.07:143][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.08:336][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.12:163][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.13:437][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.14:890][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.16:187][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.17:841][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.22:277][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.27:059][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.35:412][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.37:855][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.41:986][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.43:213][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.45:366][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.52:571][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.53:734][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.54:837][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.56:216][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.15.57:630][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.01:760][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.05:050][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.07:985][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.09:125][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.20:212][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.24:967][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.26:418][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.40:049][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.16.45:691][210]LogAssetEditorManager: Opening Asset editor for Material /Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_Mat.T_Plains_Ruins_FloorStones_Mat
+[2019.03.27-21.16.45:698][210]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.16.46:338][210]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.16.46:358][210]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.16.46:358][210]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.16.46:358][210]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.16.46:385][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.27-21.16.46:393][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.27-21.16.46:502][210]LogSlate: Took 0.015997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.27-21.16.48:652][277]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.16.49:153][295]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.16.50:790][337]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.16.50:818][338]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.16.52:984][392]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.16.52:984][392]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.16.53:088][393]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.16.54:090][406]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.16.54:630][415]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.16.54:695][416]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.16.55:238][424]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.16.55:426][427]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-21.16.56:252][434]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-21.16.56:907][442]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.27-21.16.57:097][446]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.16.57:097][446]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.27-21.16.57:859][459]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.16.58:046][462]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.16.58:355][467]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.16.58:464][468]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.16.58:464][468]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.16.58:464][468]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.27-21.16.58:464][468]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.16.58:464][468]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.16.58:464][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.27-21.16.58:818][473]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.17.16:800][719]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Arena01_Auto230CCF36F4B9B0EEE5A5042B03DDC4CD0.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Autosaves/Game/ThirdPersonBP/Maps/Arena01_Auto2.umap'
+[2019.03.27-21.17.16:805][719]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Arena01' took 0.315
+[2019.03.27-21.17.16:805][719]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.315
+[2019.03.27-21.17.16:808][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_Mat] ([1] browsable assets)...
+[2019.03.27-21.17.16:827][719]OBJ SavePackage:     Rendered thumbnail for [Material /Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_Mat.T_Plains_Ruins_FloorStones_Mat]
+[2019.03.27-21.17.16:827][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_Mat]
+[2019.03.27-21.17.16:854][719]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/T_Plains_Ruins_FloorStones_Mat_AEF3D787249FF4AC81F7F13842A4AE276.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Autosaves/Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_Mat_Auto2.uasset'
+[2019.03.27-21.17.16:857][719]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Geometry/Meshes/M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB] ([2] browsable assets)...
+[2019.03.27-21.17.16:874][719]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Geometry/Meshes/M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB.M_M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB]
+[2019.03.27-21.17.16:877][719]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Meshes/M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB.T_M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB_BaseColor]
+[2019.03.27-21.17.16:877][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB]
+[2019.03.27-21.17.16:881][719]LogTexture: Display: Building textures: T_M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB_BaseColor (DXT1, 128X128)
+[2019.03.27-21.17.16:912][719]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/M_TemplateFloor_T_Plains_Ruins_FBB407F1945E9F09C6A9D09AB9D8D9A82.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Autosaves/Game/Geometry/Meshes/M_TemplateFloor_T_Plains_Ruins_FloorStones_Mat_CB3316D4441330E6936F17AE29C94CDB_Auto2.uasset'
+[2019.03.27-21.17.16:914][719]LogFileHelpers: Auto-saving content packages took 0.108
+[2019.03.27-21.18.01:046][937]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.18.01:073][937]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.18.01:073][937]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.18.01:073][937]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.18.03:969][999]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.18.04:069][  1]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.18.04:438][  7]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.18.04:592][ 10]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.18.04:645][ 11]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.18.04:870][ 15]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.18.05:062][ 18]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.18.05:861][ 28]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-21.18.06:036][ 32]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-21.18.06:305][ 37]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.27-21.18.08:988][113]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.18.09:220][121]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.27-21.18.09:976][144]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.18.12:993][232]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.18.13:412][244]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.18.14:390][278]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.18.17:862][417]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.18.17:862][417]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.18.17:862][417]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.27-21.18.17:862][417]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.18.17:862][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.18.17:863][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.27-21.18.17:888][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.03.27-21.18.17:934][419]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.18.17:934][419]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.18.22:873][598]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.18.23:031][599]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.18.23:031][599]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.18.23:031][599]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.18.24:676][631]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.18.24:721][632]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.18.24:771][633]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.18.27:528][639]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.18.27:528][639]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.18.27:528][639]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.18.28:143][648]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.18.28:889][660]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-21.18.28:977][662]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-21.18.28:977][662]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.27-21.18.29:883][674]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.18.30:232][679]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.27-21.18.30:365][682]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.18.31:223][694]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.18.31:275][695]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.18.31:728][702]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.18.33:857][717]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.18.33:857][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.18.33:857][717]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.27-21.18.33:857][717]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.18.33:857][717]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.18.33:857][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.27-21.18.50:411][853]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.18.50:521][854]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.18.50:522][854]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.18.50:522][854]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.18.52:601][916]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.18.52:661][916]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.27-21.18.55:181][988]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_1, compiling. 
+[2019.03.27-21.18.57:285][ 46]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.27-21.18.57:457][ 51]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.18.57:687][ 58]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.18.58:399][ 81]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.18.58:474][ 81]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_1, compiling. 
+[2019.03.27-21.18.59:693][117]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.27-21.18.59:808][121]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.18.59:947][126]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.19.01:288][170]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.19.01:341][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.27-21.19.02:445][201]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.27-21.19.02:796][211]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.19.03:002][217]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.19.04:607][261]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2019.03.27-21.19.06:610][315]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.19.06:712][318]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.19.06:806][321]LogMaterialEditor: Saving and Compiling material T_Plains_Ruins_FloorStones_Mat
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.19.09:778][321]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.19.09:809][321]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.19.09:899][321]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.19.09:930][321]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.19.09:970][321]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.19.10:044][321]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.27-21.19.10:057][321]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.27-21.19.15:402][321]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.19.15:403][321]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.19.15:411][321]TextureStreamingBuild: Display: Compiling optional shaders took 5.365 seconds.
+[2019.03.27-21.19.19:346][321]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/T_Plains_Ruins_FloorStones_MatD70DDDAA46DA6935CE028AA90A6513A9.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_Mat.uasset'
+[2019.03.27-21.19.19:381][321]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.19.19:382][321]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.19.19:382][321]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.27-21.19.19:382][321]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.19.19:382][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.19.19:382][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.27-21.19.37:542][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.19.55:963][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.19.58:696][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.20.00:048][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.20.04:020][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.20.10:245][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x406)
+[2019.03.27-21.20.22:904][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.20.29:390][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.20.34:677][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.21.13:465][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.21.13:544][501]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-21.21.13:578][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.21.13:579][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-21.21.13:580][501]PIE: New page: PIE session: Arena01 (27 mars 2019 23:21:13)
+[2019.03.27-21.21.13:581][501]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01
+[2019.03.27-21.21.13:607][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025811s)
+[2019.03.27-21.21.13:608][501]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-21.21.13:609][501]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2019.03.27-21.21.13:609][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Arena01.Arena01 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01 (0.027665s)
+[2019.03.27-21.21.13:678][501]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-21.21.13:701][501]LogInit: FAudioDevice initialized.
+[2019.03.27-21.21.13:739][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-21.21.13:743][501]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 0) at 2019.03.27-22.21.13
+[2019.03.27-21.21.13:743][501]LogWorld: Bringing up level for play took: 0.003076
+[2019.03.27-21.21.13:760][501]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.21.13:760][501]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2019.03.27-21.21.13:760][501]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.21.13:761][501]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.03.27-21.21.13:761][501]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.27-21.21.13:762][501]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.21.13:762][501]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2019.03.27-21.21.13:764][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.21.13:767][501]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01 -0,796
+[2019.03.27-21.21.13:769][501]PIE: New page: PIE session: Arena01 (27 mars 2019 23:21:13)
+[2019.03.27-21.21.13:776][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.21.13:782][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.21.13:830][501]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/MainMenu
+[2019.03.27-21.21.13:831][501]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.21.13:831][501]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2019.03.27-21.21.13:831][501]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.03.27-21.21.13:831][501]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.03.27-21.21.13:832][501]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.21.13:832][501]LogNet: Game client on port 17777, rate 10000
+[2019.03.27-21.21.13:840][501]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/MainMenu -0,724
+[2019.03.27-21.21.13:849][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.21.13:850][501]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50083
+[2019.03.27-21.21.13:850][501]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 033082216189035002125088057117086037104242027059184135241035
+[2019.03.27-21.21.13:853][501]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 033082216189035002125088057117086037104242027059184135241035
+[2019.03.27-21.21.14:023][502]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50083
+[2019.03.27-21.21.14:023][502]LogHandshake: SendChallengeAck. InCookie: 033082216189035002125088057117086037104242027059184135241035
+[2019.03.27-21.21.14:024][502]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50083
+[2019.03.27-21.21.14:024][502]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.21.14:024][502]LogNet: NotifyAcceptedConnection: Name: Arena01, TimeStamp: 03/27/19 22:21:14, [UNetConnection] RemoteAddr: 127.0.0.1:50083, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.21.14:024][502]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50083, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.21.14:027][502]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.21.14:069][503]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01: Accepted
+[2019.03.27-21.21.14:070][503]LogNet: Remote platform little endian=1
+[2019.03.27-21.21.14:070][503]LogNet: This platform little endian=1
+[2019.03.27-21.21.14:104][504]LogNet: Login request: /Game/ThirdPersonBP/Maps/MainMenu?Name=DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA userId: DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA
+[2019.03.27-21.21.14:107][504]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01, Game: /Game/ThirdPersonBP/Blueprints/Gameplay/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.03.27-21.21.14:107][504]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01?game=/Game/ThirdPersonBP/Blueprints/Gameplay/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.03.27-21.21.14:166][504]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-21.21.14:167][504]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.21.14:170][504]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Arena01.Arena01 up for play (max tick rate 0) at 2019.03.27-22.21.14
+[2019.03.27-21.21.14:171][504]LogWorld: Bringing up level for play took: 0.002623
+[2019.03.27-21.21.14:171][504]LogLoad: Took 0.064234 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01)
+[2019.03.27-21.21.14:205][505]LogNet: Client netspeed is 10000
+[2019.03.27-21.21.14:205][505]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMenu?Name=DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA?SplitscreenCount=1
+[2019.03.27-21.21.14:206][505]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.21.14:215][505]LogNet: Join succeeded: DESKTOP-FT66DED-89E5
+[2019.03.27-21.21.14:276][506]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_1.StaticMeshComponent_0 NOT Supported.
+[2019.03.27-21.21.14:276][506]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_1.DrawFrustumComponent_0 NOT Supported.
+[2019.03.27-21.21.14:278][506]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_0.StaticMeshComponent_0 NOT Supported.
+[2019.03.27-21.21.14:278][506]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_0.DrawFrustumComponent_0 NOT Supported.
+[2019.03.27-21.21.14:341][508]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.21.14:366][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.21.14:380][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.21.14:402][510]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.21.46:034][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.23.03:944][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.23.03:945][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.23.04:005][ 86]LogSlate: Window 'PeopleWithGuns Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.27-21.23.04:042][ 86]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.03.27-21.23.04:043][ 86]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.03.27-21.23.04:043][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.23.04:079][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-21.23.04:080][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.23.04:126][ 86]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50083, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: GameplayPC_C_1, Owner: GameplayPC_C_1, UniqueId: NULL:DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA
+[2019.03.27-21.23.04:126][ 86]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50083, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: GameplayPC_C_1, Owner: GameplayPC_C_1, UniqueId: NULL:DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA, Channels: 2, Time: 2019.03.27-21.23.04
+[2019.03.27-21.23.04:126][ 86]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50083, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: GameplayPC_C_1, Owner: GameplayPC_C_1, UniqueId: NULL:DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA
+[2019.03.27-21.23.04:126][ 86]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA
+[2019.03.27-21.23.04:126][ 86]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA, Channels: 2, Time: 2019.03.27-21.23.04
+[2019.03.27-21.23.04:126][ 86]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-89E543FA41CD2FF1C1D816838E4B63BA
+[2019.03.27-21.23.04:135][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.23.04:137][ 86]LogExit: GameNetDriver None shut down
+[2019.03.27-21.23.04:137][ 86]LogExit: GameNetDriver None shut down
+[2019.03.27-21.23.04:180][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.27-21.23.04:180][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.27-21.25.29:606][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.29.08:953][751]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Arena01_Auto301FA331D4548CED34CA81DA916D62BED.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/Autosaves/Game/ThirdPersonBP/Maps/Arena01_Auto3.umap'
+[2019.03.27-21.29.08:961][751]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Arena01' took 0.335
+[2019.03.27-21.29.08:961][751]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.335
+[2019.03.27-21.36.50:580][398]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.27-21.36.50:599][398]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.36.50:599][398]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.36.50:599][398]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.36.50:599][398]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.36.53:075][463]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.36.54:506][500]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2019.03.27-21.36.57:833][591]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.36.57:898][591]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.27-21.37.01:952][699]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.02:006][699]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.27-21.37.02:052][699]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2019.03.27-21.37.08:049][867]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.27-21.37.08:254][871]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.08:313][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_1, compiling. 
+[2019.03.27-21.37.08:360][871]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.08:614][877]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.27-21.37.12:230][979]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.12:289][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2019.03.27-21.37.12:332][979]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.13:165][  1]LogMaterialEditor: Saving and Compiling material T_Plains_Ruins_FloorStones_Mat
+[2019.03.27-21.37.14:986][  1]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.27-21.37.14:986][  1]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.27-21.37.14:986][  1]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.37.14:986][  1]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.37.15:016][  1]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.15:151][  1]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.15:188][  1]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.15:279][  1]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.37.20:050][  1]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.27-21.37.20:050][  1]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.27-21.37.20:050][  1]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.27-21.37.20:050][  1]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.27-21.37.20:050][  1]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.37.20:051][  1]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.37.20:061][  1]TextureStreamingBuild: Display: Compiling optional shaders took 4.792 seconds.
+[2019.03.27-21.37.24:015][  1]LogSavePackage: Moving 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Saved/T_Plains_Ruins_FloorStones_Mat85C13E644CBC1F8C6DA4869DE8844F69.tmp' to 'C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Content/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_FloorStones_Mat.uasset'
+[2019.03.27-21.37.24:041][  1]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.37.24:041][  1]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.37.24:041][  1]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.03.27-21.37.24:041][  1]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.37.24:041][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.37.24:041][  1]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2019.03.27-21.37.46:143][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2019.03.27-21.37.46:628][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-21.37.51:784][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.37.53:576][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.38.00:186][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.38.07:491][374]Cmd: TRANSACTION UNDO
+[2019.03.27-21.38.07:491][374]LogEditorTransaction: Undo Create Actors
+[2019.03.27-21.38.07:509][374]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.38.07:530][374]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.38.07:531][374]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.38.07:531][374]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.38.09:818][516]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.38.10:056][531]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.38.10:849][597]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.38.10:903][603]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.38.11:058][620]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.38.11:343][652]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.38.11:371][655]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.38.11:843][706]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-21.38.11:996][723]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-21.38.12:273][753]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.27-21.38.12:846][816]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.38.12:909][823]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.27-21.38.13:055][839]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.38.13:596][898]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.38.13:784][918]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.38.13:936][935]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.38.14:521][  0]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.38.14:521][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.38.14:521][  0]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.03.27-21.38.14:521][  0]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.38.14:521][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.38.14:521][  0]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2019.03.27-21.38.20:122][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.38.30:629][366]LogMaterial: Display: Missing cached shader map for material T_Rock_Sandstone_Mat, compiling. 
+[2019.03.27-21.38.30:659][366]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.38.30:659][366]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.38.32:903][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.38.36:300][618]Cmd: TRANSACTION UNDO
+[2019.03.27-21.38.36:300][618]LogEditorTransaction: Undo Create Actors
+[2019.03.27-21.38.36:311][618]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.38.36:350][618]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.38.36:539][622]Cmd: TRANSACTION UNDO
+[2019.03.27-21.38.36:539][622]LogEditorTransaction: Undo Create Actors
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.03.27-21.38.36:544][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.03.27-21.38.36:545][622]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.03.27-21.38.36:546][622]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211' invalid (384 verts, 0 indices).
+[2019.03.27-21.38.36:546][622]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211.BodySetup_0 when we are unable to.
+[2019.03.27-21.38.36:558][622]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.38.37:641][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.38.41:024][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.38.41:147][815]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-21.38.41:206][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.38.41:206][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-21.38.41:208][815]PIE: New page: PIE session: Arena01 (27 mars 2019 23:38:41)
+[2019.03.27-21.38.41:209][815]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01
+[2019.03.27-21.38.41:246][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036760s)
+[2019.03.27-21.38.41:247][815]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-21.38.41:248][815]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2019.03.27-21.38.41:248][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Arena01.Arena01 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01 (0.038890s)
+[2019.03.27-21.38.41:367][815]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-21.38.41:388][815]LogInit: FAudioDevice initialized.
+[2019.03.27-21.38.41:425][815]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-21.38.41:430][815]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 0) at 2019.03.27-22.38.41
+[2019.03.27-21.38.41:431][815]LogWorld: Bringing up level for play took: 0.004485
+[2019.03.27-21.38.41:449][815]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.38.41:449][815]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2019.03.27-21.38.41:449][815]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.38.41:450][815]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.03.27-21.38.41:450][815]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.03.27-21.38.41:451][815]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.38.41:451][815]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2019.03.27-21.38.41:451][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.38.41:455][815]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01 0,891
+[2019.03.27-21.38.41:457][815]PIE: New page: PIE session: Arena01 (27 mars 2019 23:38:41)
+[2019.03.27-21.38.41:468][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.38.41:476][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.38.41:536][815]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/MainMenu
+[2019.03.27-21.38.41:536][815]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.38.41:536][815]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2019.03.27-21.38.41:536][815]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.03.27-21.38.41:536][815]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.03.27-21.38.41:537][815]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.38.41:538][815]LogNet: Game client on port 17777, rate 10000
+[2019.03.27-21.38.41:547][815]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/MainMenu 0,983
+[2019.03.27-21.38.41:560][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.38.41:561][815]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55309
+[2019.03.27-21.38.41:561][815]LogHandshake: SendConnectChallenge. Timestamp: 0.026057, Cookie: 171004146030171093021170168061082109202088185177038092162199
+[2019.03.27-21.38.41:564][815]LogHandshake: SendChallengeResponse. Timestamp: 0.026057, Cookie: 171004146030171093021170168061082109202088185177038092162199
+[2019.03.27-21.38.41:913][816]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55309
+[2019.03.27-21.38.41:913][816]LogHandshake: SendChallengeAck. InCookie: 171004146030171093021170168061082109202088185177038092162199
+[2019.03.27-21.38.41:913][816]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55309
+[2019.03.27-21.38.41:914][816]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.27-21.38.41:914][816]LogNet: NotifyAcceptedConnection: Name: Arena01, TimeStamp: 03/27/19 22:38:41, [UNetConnection] RemoteAddr: 127.0.0.1:55309, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.38.41:915][816]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55309, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.38.41:917][816]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.27-21.38.41:963][817]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01: Accepted
+[2019.03.27-21.38.41:963][817]LogNet: Remote platform little endian=1
+[2019.03.27-21.38.41:963][817]LogNet: This platform little endian=1
+[2019.03.27-21.38.41:996][818]LogNet: Login request: /Game/ThirdPersonBP/Maps/MainMenu?Name=DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E userId: DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E
+[2019.03.27-21.38.42:000][818]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01, Game: /Game/ThirdPersonBP/Blueprints/Gameplay/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.03.27-21.38.42:000][818]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01?game=/Game/ThirdPersonBP/Blueprints/Gameplay/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.03.27-21.38.42:078][818]LogAIModule: Creating AISystem for world Arena01
+[2019.03.27-21.38.42:079][818]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.27-21.38.42:083][818]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Arena01.Arena01 up for play (max tick rate 0) at 2019.03.27-22.38.42
+[2019.03.27-21.38.42:083][818]LogWorld: Bringing up level for play took: 0.003605
+[2019.03.27-21.38.42:084][818]LogLoad: Took 0.083995 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01)
+[2019.03.27-21.38.42:130][819]LogNet: Client netspeed is 10000
+[2019.03.27-21.38.42:131][819]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMenu?Name=DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E?SplitscreenCount=1
+[2019.03.27-21.38.42:131][819]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.38.42:137][819]LogNet: Join succeeded: DESKTOP-FT66DED-9AC3
+[2019.03.27-21.38.42:267][820]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_1.StaticMeshComponent_0 NOT Supported.
+[2019.03.27-21.38.42:267][820]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_1.DrawFrustumComponent_0 NOT Supported.
+[2019.03.27-21.38.42:269][820]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_0.StaticMeshComponent_0 NOT Supported.
+[2019.03.27-21.38.42:269][820]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/ThirdPersonBP/Maps/UEDPIE_1_Arena01.Arena01:PersistentLevel.ThirdPersonCharacter_C_0.DrawFrustumComponent_0 NOT Supported.
+[2019.03.27-21.38.42:319][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.38.42:322][821]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.38.42:323][821]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.03.27-21.38.42:328][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-21.38.45:840][906]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.38.46:426][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.38.46:427][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.38.46:489][923]LogSlate: Window 'PeopleWithGuns Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.27-21.38.46:534][923]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.03.27-21.38.46:534][923]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.03.27-21.38.46:535][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.38.46:576][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-21.38.46:577][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Arena01.Arena01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.Arena01'
+[2019.03.27-21.38.46:639][923]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55309, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E
+[2019.03.27-21.38.46:639][923]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55309, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E, Channels: 2, Time: 2019.03.27-21.38.46
+[2019.03.27-21.38.46:639][923]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55309, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E
+[2019.03.27-21.38.46:640][923]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E
+[2019.03.27-21.38.46:640][923]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E, Channels: 3, Time: 2019.03.27-21.38.46
+[2019.03.27-21.38.46:640][923]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:DESKTOP-FT66DED-9AC3AE4A481C51E79A3F0DA55CBC639E
+[2019.03.27-21.38.46:647][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-21.38.46:648][923]LogExit: GameNetDriver None shut down
+[2019.03.27-21.38.46:649][923]LogExit: GameNetDriver None shut down
+[2019.03.27-21.38.46:688][924]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.27-21.38.46:689][924]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.27-21.38.47:748][969]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.38.49:883][ 37]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.38.53:384][126]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.38.56:022][190]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.38.57:834][237]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.38.58:069][240]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart3)
+[2019.03.27-21.38.58:140][240]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.38.58:605][261]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart3)
+[2019.03.27-21.38.59:192][290]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.38.59:955][314]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.27-21.39.00:714][333]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.39.01:207][348]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.39.04:925][438]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-21.39.05:609][452]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-21.39.06:822][480]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.27-21.39.10:971][568]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.39.11:820][592]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.27-21.39.12:087][617]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.39.13:900][712]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.39.14:435][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.39.14:900][749]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.39.15:164][758]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.39.15:164][758]LogMaterial: Display: Missing cached shader map for material T_Wood_Oak_Mat, compiling. 
+[2019.03.27-21.39.17:286][834]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.39.17:615][843]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.39.18:758][891]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.39.18:758][891]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.39.18:758][891]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.03.27-21.39.18:758][891]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.39.18:759][891]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.39.18:759][891]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2019.03.27-21.39.19:330][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.39.22:266][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.39.27:105][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.39.29:300][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.39.41:021][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.39.52:918][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.39.55:263][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2019.03.27-21.39.56:377][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.02:254][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.06:129][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.15:109][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.16:156][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.17:211][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.18:538][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.19:779][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.20:935][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.23:451][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.25:555][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.34:083][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.35:393][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.36:927][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.38:364][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.40:590][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.41:456][198]LogMaterial: Display: Missing cached shader map for material T_Statue_Mat, compiling. 
+[2019.03.27-21.40.41:481][198]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.40.41:481][198]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.40.42:370][243]Cmd: TRANSACTION UNDO
+[2019.03.27-21.40.42:370][243]LogEditorTransaction: Undo Create Actors
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.03.27-21.40.42:378][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 18
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 19
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 20
+[2019.03.27-21.40.42:379][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 21
+[2019.03.27-21.40.42:380][243]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211, Buffer: 0, Buffer Size: 0, Element: 22
+[2019.03.27-21.40.42:380][243]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211' invalid (384 verts, 0 indices).
+[2019.03.27-21.40.42:380][243]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.ModelComponent_211.BodySetup_0 when we are unable to.
+[2019.03.27-21.40.42:441][243]LogMaterial: Display: Missing cached shader map for material T_Plains_Ruins_FloorStones_Mat, compiling. 
+[2019.03.27-21.40.42:474][243]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.27-21.40.43:065][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.44:343][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.45:649][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.50:101][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.51:393][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.52:651][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.53:948][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.55:960][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.40.56:058][704]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.27-21.40.57:015][741]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.27-21.40.58:920][792]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.27-21.40.59:104][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.00:083][826]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.27-21.41.01:233][881]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.27-21.41.01:257][881]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.27-21.41.01:353][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.01:897][898]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.27-21.41.02:028][905]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.27-21.41.03:801][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.04:179][991]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.41.04:474][  4]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.27-21.41.05:058][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.05:429][ 39]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.27-21.41.06:569][ 84]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.27-21.41.07:894][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.08:528][123]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.27-21.41.09:173][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.09:460][155]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.27-21.41.10:393][187]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.27-21.41.11:758][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.12:826][241]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.27-21.41.13:488][257]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.27-21.41.14:700][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.14:998][285]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.27-21.41.15:801][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.17:077][363]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.03.27-21.41.17:077][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.03.27-21.41.17:077][363]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.03.27-21.41.17:077][363]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.27-21.41.17:077][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.03.27-21.41.17:078][363]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2019.03.27-21.41.17:522][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.21:745][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.22:788][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.24:363][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.28:030][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.34:957][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.36:371][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.37:984][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.39:487][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.40:720][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.41:953][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.41.45:206][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.08:499][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.09:658][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.10:862][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.12:199][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.14:049][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.20:560][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.21:826][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.23:148][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.24:355][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.25:314][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.26:348][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.27:635][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.29:998][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.42.42:984][626]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.42.42:984][626]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.42.48:900][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.43.08:370][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.43.18:495][575]Cmd: EDIT COPY
+[2019.03.27-21.43.20:629][737]Cmd: EDIT PASTE
+[2019.03.27-21.43.26:583][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.43.32:007][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.44.03:420][961]Cmd: EDIT COPY
+[2019.03.27-21.44.05:588][142]Cmd: EDIT PASTE
+[2019.03.27-21.44.09:797][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.44.15:735][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.44.26:084][190]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.44.26:085][190]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-21.45.13:768][608]Cmd: EDIT COPY
+[2019.03.27-21.45.20:453][324]Cmd: EDIT PASTE
+[2019.03.27-21.45.23:558][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.45.39:782][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.46.10:764][914]Cmd: EDIT COPY
+[2019.03.27-21.46.11:626][996]Cmd: EDIT PASTE
+[2019.03.27-21.46.16:183][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.46.32:626][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.46.36:290][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.03.27-21.46.45:050][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.46.48:697][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.46.51:767][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.46.53:739][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-21.46.59:564][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.00:362][500]LogMaterial: Display: Missing cached shader map for material T_Wood_Pine_Mat, compiling. 
+[2019.03.27-21.47.00:385][500]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.47.00:385][500]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.47.01:421][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-21.47.10:960][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.12:829][129]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.03.27-21.47.15:076][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.16:726][403]LogMaterial: Display: Missing cached shader map for material T_Wood_Walnut_Mat, compiling. 
+[2019.03.27-21.47.16:743][403]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.27-21.47.16:744][403]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.27-21.47.21:129][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.27:484][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.33:762][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.40:158][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.42:935][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.44:862][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.47:140][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.49:055][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.52:001][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.54:405][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.47.58:294][  5]Cmd: EDIT COPY
+[2019.03.27-21.47.59:355][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.48.02:677][262]Cmd: EDIT PASTE
+[2019.03.27-21.48.09:390][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-21.48.14:794][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.15:294][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.15:793][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.16:293][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.16:793][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.17:294][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.17:794][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.18:293][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.18:794][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.19:293][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.19:793][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.20:294][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.20:795][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.21:295][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.21:795][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.22:295][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.22:794][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.23:294][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.23:794][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.24:295][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.24:795][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.25:296][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.25:795][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.26:296][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.26:795][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.27:296][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.27:795][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.28:296][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.28:795][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.29:295][687]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.27-21.48.29:314][688]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.03.27-21.48.29:314][688]LogD3D11RHI: [Aftermath] GDynamicRHI=000002DDDEF4A100, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.03.27-21.48.29:319][688]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2019.03.27-21.48.32:453][688]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2019.03.27-21.48.32:466][688]LogWindows: Error: === Critical error: ===
+[2019.03.27-21.48.32:466][688]LogWindows: Error: 
+[2019.03.27-21.48.32:466][688]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2019.03.27-21.48.32:466][688]LogWindows: Error: Rendering thread exception:
+[2019.03.27-21.48.32:466][688]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 200] 
+[2019.03.27-21.48.32:466][688]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2019.03.27-21.48.32:466][688]LogWindows: Error: 
+[2019.03.27-21.48.32:466][688]LogWindows: Error: 
+[2019.03.27-21.48.32:466][688]LogWindows: Error: [Callstack] 0x00007fff068ca388 KERNELBASE.dll!UnknownFunction []
+[2019.03.27-21.48.32:466][688]LogWindows: Error: [Callstack] 0x00007ffeee0d6850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.27-21.48.32:466][688]LogWindows: Error: [Callstack] 0x00007ffec48262fc UE4Editor-Core.dll!UnknownFunction []
+[2019.03.27-21.48.32:466][688]LogWindows: Error: [Callstack] 0x00007ffec47b51db UE4Editor-Core.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffe9d9cadea UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffe9d9ce6e4 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffe9d9ad0aa UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffe9d9bab70 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffeed81b106 UE4Editor-RHI.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffe9d731b42 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffe9d737d0a UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffec4641f92 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffec4642456 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffeee1575f9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffeee158574 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffec4a86b7c UE4Editor-Core.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007ffec4a817c7 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007fff07843dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: [Callstack] 0x00007fff0a033691 ntdll.dll!UnknownFunction []
+[2019.03.27-21.48.32:467][688]LogWindows: Error: 
+[2019.03.27-21.48.32:467][688]LogWindows: Error: 
+[2019.03.27-21.48.32:467][688]LogWindows: Error: 
+[2019.03.27-21.48.32:467][688]LogWindows: Error: 
+[2019.03.27-21.48.32:527][688]LogExit: Executing StaticShutdownAfterError
+[2019.03.27-21.48.32:579][688]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.03.27-21.48.32:586][688]Log file closed, 03/27/19 22:48:32
