@@ -1,0 +1,1115 @@
+﻿Log file open, 03/28/19 01:32:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PeopleWithGuns
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177422
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.100s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/ThirdPersonBP/Maps/MainMenu -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: R:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.28-00.32.25:066][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.28-00.32.25:066][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.28-00.32.25:070][  0]LogHAL: Display: Platform has ~ 8 GB [8464732160 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.28-00.32.25:070][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.28-00.32.25:070][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.28-00.32.25:071][  0]LogInit: Computer: DESKTOP-FT66DED
+[2019.03.28-00.32.25:071][  0]LogInit: User: Malo
+[2019.03.28-00.32.25:071][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.03.28-00.32.25:071][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.28-00.32.25:071][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.28-00.32.25:071][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.28-00.32.25:071][  0]LogMemory: Process Physical Memory: 130.17 MB used, 130.17 MB peak
+[2019.03.28-00.32.25:072][  0]LogMemory: Process Virtual Memory: 106.89 MB used, 106.89 MB peak
+[2019.03.28-00.32.25:072][  0]LogMemory: Physical Memory: 4247.38 MB used,  3825.21 MB free, 8072.60 MB total
+[2019.03.28-00.32.25:072][  0]LogMemory: Virtual Memory: 4741.16 MB used,  3825.21 MB free, 134217728.00 MB total
+[2019.03.28-00.32.25:120][  0]LogInit: Using OS detected language (fr-FR).
+[2019.03.28-00.32.25:120][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.03.28-00.32.25:121][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.03.28-00.32.25:124][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2019.03.28-00.32.25:161][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.28-00.32.25:161][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.28-00.32.25:169][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.28-00.32.25:197][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2019.03.28-00.32.25:197][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.03.28-00.32.25:205][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.28-00.32.25:205][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.28-00.32.25:205][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.28-00.32.25:216][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.28-00.32.25:217][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.28-00.32.25:217][  0]LogWindows: EnumDisplayDevices:
+[2019.03.28-00.32.25:217][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2019.03.28-00.32.25:217][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.03.28-00.32.25:218][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.03.28-00.32.25:218][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.03.28-00.32.25:218][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2019.03.28-00.32.25:218][  0]LogD3D11RHI:   Driver Version: 22.20.16.4771 (internal:22.20.16.4771, unified:22.20.16.4771)
+[2019.03.28-00.32.25:218][  0]LogD3D11RHI:      Driver Date: 8-13-2017
+[2019.03.28-00.32.25:218][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2019.03.28-00.32.25:239][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.28-00.32.25:248][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.03.28-00.32.25:251][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/Intermediate/Shaders/WorkingDirectory/920/).
+[2019.03.28-00.32.25:251][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Malo/AppData/Local/Temp/UnrealShaderWorkingDir/282A085F4181C25414A2B58559C2D4BC/'.
+[2019.03.28-00.32.25:735][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.28-00.32.25:752][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.28-00.32.25:769][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.28-00.32.25:777][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.28-00.32.25:777][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.28-00.32.25:848][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.28-00.32.25:848][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.28-00.32.25:848][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.28-00.32.26:686][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.28-00.32.26:756][  0]LogDerivedDataCache: Loaded boot cache 0.07s 70MB C:/Users/Malo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.28-00.32.26:756][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Malo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.28-00.32.26:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.28-00.32.26:757][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.28-00.32.26:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Malo/Documents/GitHub/ProjetsHub2018/FPSUnreal/PeopleWithGuns/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.28-00.32.26:757][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.28-00.32.26:774][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.28-00.32.26:787][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Malo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.28-00.32.26:787][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.28-00.32.26:787][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.28-00.32.26:811][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.28-00.32.26:813][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.28-00.32.26:814][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.28-00.32.26:862][  0]LogInit: Using OS detected language (fr-FR).
+[2019.03.28-00.32.26:862][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.03.28-00.32.26:862][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2019.03.28-00.32.26:862][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2019.03.28-00.32.27:283][  0]LogStreaming: Display: Took  0.421s to InitGameTextLocalization.
+[2019.03.28-00.32.27:291][  0]LogAssetRegistry: FAssetRegistry took 0.0050 seconds to start up
+[2019.03.28-00.32.27:514][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.016662 seconds
+[2019.03.28-00.32.27:635][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.28-00.32.27:778][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.28-00.32.27:783][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.28-00.32.27:783][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.28-00.32.27:783][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.28-00.32.27:783][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.28-00.32.27:799][  0]LogNetVersion: PeopleWithGuns 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1271298656)
+[2019.03.28-00.32.28:382][  0]LogMoviePlayer: Initializing movie player
+[2019.03.28-00.32.28:610][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.28-00.32.28:623][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.28-00.32.28:727][  0]SourceControl: Source control is disabled
+[2019.03.28-00.32.28:727][  0]SourceControl: Source control is disabled
+[2019.03.28-00.32.28:730][  0]SourceControl: Source control is disabled
+[2019.03.28-00.32.28:888][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.28-00.32.29:087][  0]LogOcInput: OculusInput pre-init called
+[2019.03.28-00.32.29:104][  0]LogUObjectArray: 42139 objects as part of root set at end of initial load.
+[2019.03.28-00.32.29:104][  0]LogUObjectAllocator: 7435248 out of 0 bytes used by permanent object pool.
+[2019.03.28-00.32.29:104][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.28-00.32.29:186][  0]LogEngine: Initializing Engine...
+[2019.03.28-00.32.29:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.28-00.32.29:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.28-00.32.29:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.28-00.32.29:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.28-00.32.29:395][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.28-00.32.29:427][  0]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.28-00.32.29:441][  0]LogInit: FAudioDevice initialized.
+[2019.03.28-00.32.29:453][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.28-00.32.29:462][  0]LogInit: Texture streaming: Enabled
+[2019.03.28-00.32.29:803][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-00.32.29:803][  0]LogInit: Display: Game Engine Initialized.
+[2019.03.28-00.32.29:804][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.28-00.32.29:804][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.28-00.32.29:804][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.28-00.32.29:804][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.28-00.32.29:804][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.28-00.32.29:830][  0]LogInit: Display: Starting Game.
+[2019.03.28-00.32.29:830][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu?Name=Player
+[2019.03.28-00.32.29:830][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu?Name=Player
+[2019.03.28-00.32.29:881][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.28-00.32.30:873][  0]LogLoad: Game class is 'LobbyGM_C'
+[2019.03.28-00.32.30:875][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.03.28-01.32.30
+[2019.03.28-00.32.30:875][  0]LogWorld: Bringing up level for play took: 0.001053
+[2019.03.28-00.32.30:876][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.28-00.32.30:879][  0]LogBlueprintUserMessages: [LobbyPC_C_0] Saving worked !
+[2019.03.28-00.32.30:886][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnPoints' of length 0 in '/Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C'!
+[2019.03.28-00.32.30:886][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	LobbyGM_C /Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.LobbyGM_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM:0FF4
+[2019.03.28-00.32.30:886][  0]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:K2_PostLogin
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:RespawnPlayer
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+
+[2019.03.28-00.32.30:888][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnPoints' of length 0 in '/Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C'!
+[2019.03.28-00.32.30:888][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	LobbyGM_C /Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.LobbyGM_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM:1130
+[2019.03.28-00.32.30:888][  0]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:K2_PostLogin
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:RespawnPlayer
+	Function /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+
+[2019.03.28-00.32.30:891][  0]LogLoad: Took 1.060938 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2019.03.28-00.32.30:894][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.28-00.32.30:964][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.03.28-00.32.30:964][  0]LogLoad: (Engine Initialization) Total time: 8.02 seconds
+[2019.03.28-00.32.30:964][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.28-00.32.31:366][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.28-00.32.31:369][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.28-00.32.33:590][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-00.32.36:046][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data cname FR
+[2019.03.28-00.32.36:046][271]LogOnline: Warning: STEAM: Failed to parse setting from key cname value FR
+[2019.03.28-00.32.36:046][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data platform WIN
+[2019.03.28-00.32.36:047][271]LogOnline: Warning: STEAM: Failed to parse setting from key platform value WIN
+[2019.03.28-00.32.36:047][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data type 05FR
+[2019.03.28-00.32.36:047][271]LogOnline: Warning: STEAM: Failed to parse setting from key type value 05FR
+[2019.03.28-00.32.36:047][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x18600000179F2A7]'
+[2019.03.28-00.32.36:047][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data Episodes 2,
+[2019.03.28-00.32.36:047][271]LogOnline: Warning: STEAM: Failed to parse setting from key Episodes value 2,
+[2019.03.28-00.32.36:048][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data GameInProgress True
+[2019.03.28-00.32.36:048][271]LogOnline: Warning: STEAM: Failed to parse setting from key GameInProgress value True
+[2019.03.28-00.32.36:048][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data GameMode smartmatch
+[2019.03.28-00.32.36:048][271]LogOnline: Warning: STEAM: Failed to parse setting from key GameMode value smartmatch
+[2019.03.28-00.32.36:049][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MatchJoinRestriction INVISIBLE
+[2019.03.28-00.32.36:049][271]LogOnline: Warning: STEAM: Failed to parse setting from key MatchJoinRestriction value INVISIBLE
+[2019.03.28-00.32.36:049][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MatchmakingId 0
+[2019.03.28-00.32.36:049][271]LogOnline: Warning: STEAM: Failed to parse setting from key MatchmakingId value 0
+[2019.03.28-00.32.36:049][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MaxPlayerLevel 100
+[2019.03.28-00.32.36:049][271]LogOnline: Warning: STEAM: Failed to parse setting from key MaxPlayerLevel value 100
+[2019.03.28-00.32.36:050][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MinPlayerLevel 1
+[2019.03.28-00.32.36:050][271]LogOnline: Warning: STEAM: Failed to parse setting from key MinPlayerLevel value 1
+[2019.03.28-00.32.36:050][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data PlayerLevel 17
+[2019.03.28-00.32.36:050][271]LogOnline: Warning: STEAM: Failed to parse setting from key PlayerLevel value 17
+[2019.03.28-00.32.36:050][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017AC912]'
+[2019.03.28-00.32.36:051][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinaryData /////wEAAAAC/////wAAAEJvY2FuZWdlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAARdGB/kATQAJADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2019.03.28-00.32.36:051][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinaryData value /////wEAAAAC/////wAAAEJvY2FuZWdlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAARdGB/kATQAJADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2019.03.28-00.32.36:051][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinarySize 134
+[2019.03.28-00.32.36:051][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinarySize value 134
+[2019.03.28-00.32.36:051][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data CreationDate 20190327215206
+[2019.03.28-00.32.36:051][271]LogOnline: Warning: STEAM: Failed to parse setting from key CreationDate value 20190327215206
+[2019.03.28-00.32.36:052][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2019.03.28-00.32.36:052][271]LogOnline: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2019.03.28-00.32.36:052][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MemberList {"76561198350731257": {"Name":"Bocaneger","HR":"76"},"76561198110243994": {"Name":"Lumaraa","HR":"117"}}
+[2019.03.28-00.32.36:052][271]LogOnline: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198350731257": {"Name":"Bocaneger","HR":"76"},"76561198110243994": {"Name":"Lumaraa","HR":"117"}}
+[2019.03.28-00.32.36:052][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name joseluisbc_93
+[2019.03.28-00.32.36:052][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value joseluisbc_93
+[2019.03.28-00.32.36:053][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data OwnerID 01100001174607F9
+[2019.03.28-00.32.36:053][271]LogOnline: Warning: STEAM: Failed to parse setting from key OwnerID value 01100001174607F9
+[2019.03.28-00.32.36:053][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey0 537034868
+[2019.03.28-00.32.36:053][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537034868
+[2019.03.28-00.32.36:053][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey1 2
+[2019.03.28-00.32.36:053][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey1 value 2
+[2019.03.28-00.32.36:054][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2019.03.28-00.32.36:054][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey3 0
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey3 value 0
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey4 1
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey4 value 1
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey5 999999
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey5 value 999999
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2019.03.28-00.32.36:055][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey7 77
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey7 value 77
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2019.03.28-00.32.36:056][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2019.03.28-00.32.36:057][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2019.03.28-00.32.36:057][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2019.03.28-00.32.36:057][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicOpen 14
+[2019.03.28-00.32.36:057][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 14
+[2019.03.28-00.32.36:057][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x18600000178EBC1]'
+[2019.03.28-00.32.36:060][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinaryData Smlyb3BoYXJlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABOjTwLwALAEQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAACqgAAAABcnBMcAAAAAFycExwAAwMAAAAh//////////8AAAADBQECAwIBAAAAAgABBAAAAAAEAQAA
+[2019.03.28-00.32.36:060][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinaryData value Smlyb3BoYXJlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABOjTwLwALAEQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAACqgAAAABcnBMcAAAAAFycExwAAwMAAAAh//////////8AAAADBQECAwIBAAAAAgABBAAAAAAEAQAA
+[2019.03.28-00.32.36:060][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinarySize 240
+[2019.03.28-00.32.36:061][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinarySize value 240
+[2019.03.28-00.32.36:061][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data CreationDate 20190327201940
+[2019.03.28-00.32.36:061][271]LogOnline: Warning: STEAM: Failed to parse setting from key CreationDate value 20190327201940
+[2019.03.28-00.32.36:061][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2019.03.28-00.32.36:061][271]LogOnline: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2019.03.28-00.32.36:062][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MemberList {}
+[2019.03.28-00.32.36:062][271]LogOnline: Warning: STEAM: Failed to parse setting from key MemberList value {}
+[2019.03.28-00.32.36:062][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name jironero
+[2019.03.28-00.32.36:062][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value jironero
+[2019.03.28-00.32.36:063][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data OwnerID 011000013A34F02F
+[2019.03.28-00.32.36:063][271]LogOnline: Warning: STEAM: Failed to parse setting from key OwnerID value 011000013A34F02F
+[2019.03.28-00.32.36:064][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey0 163956
+[2019.03.28-00.32.36:064][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey0 value 163956
+[2019.03.28-00.32.36:064][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey1 3
+[2019.03.28-00.32.36:064][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey1 value 3
+[2019.03.28-00.32.36:064][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2019.03.28-00.32.36:064][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2019.03.28-00.32.36:065][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey3 430001
+[2019.03.28-00.32.36:065][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey3 value 430001
+[2019.03.28-00.32.36:065][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey4 6
+[2019.03.28-00.32.36:065][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey4 value 6
+[2019.03.28-00.32.36:065][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey5 2
+[2019.03.28-00.32.36:065][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey5 value 2
+[2019.03.28-00.32.36:066][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey6 1
+[2019.03.28-00.32.36:066][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey6 value 1
+[2019.03.28-00.32.36:066][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey7 0
+[2019.03.28-00.32.36:066][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey7 value 0
+[2019.03.28-00.32.36:066][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2019.03.28-00.32.36:066][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2019.03.28-00.32.36:067][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2019.03.28-00.32.36:067][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2019.03.28-00.32.36:067][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2019.03.28-00.32.36:067][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicMax 4
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 4
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicOpen 3
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 3
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017B0673]'
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinaryData AAAAAQEAAAAA/////wAAAEppcm9waGFyZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAATo08C8ACwAIAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinaryData value AAAAAQEAAAAA/////wAAAEppcm9waGFyZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAATo08C8ACwAIAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinarySize 134
+[2019.03.28-00.32.36:068][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinarySize value 134
+[2019.03.28-00.32.36:069][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data CreationDate 20190327190842
+[2019.03.28-00.32.36:069][271]LogOnline: Warning: STEAM: Failed to parse setting from key CreationDate value 20190327190842
+[2019.03.28-00.32.36:069][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2019.03.28-00.32.36:069][271]LogOnline: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2019.03.28-00.32.36:069][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MemberList {"76561198936813615": {"Name":"Jirophare","HR":"11"}}
+[2019.03.28-00.32.36:069][271]LogOnline: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198936813615": {"Name":"Jirophare","HR":"11"}}
+[2019.03.28-00.32.36:069][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name jironero
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value jironero
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data OwnerID 011000013A34F02F
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: STEAM: Failed to parse setting from key OwnerID value 011000013A34F02F
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey0 537034868
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537034868
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey1 0
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey1 value 0
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2019.03.28-00.32.36:070][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey3 0
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey3 value 0
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey4 2
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey4 value 2
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey5 999999
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey5 value 999999
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2019.03.28-00.32.36:071][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey7 11
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey7 value 11
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2019.03.28-00.32.36:072][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicOpen 15
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 15
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017A5898]'
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data GameSessionHandle 109775240941979922
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: STEAM: Failed to parse setting from key GameSessionHandle value 109775240941979922
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MatchJoinRestriction PUBLIC
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: STEAM: Failed to parse setting from key MatchJoinRestriction value PUBLIC
+[2019.03.28-00.32.36:073][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017AC910]'
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data desc hoi4
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: STEAM: Failed to parse setting from key desc value hoi4
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data mod hoi4
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: STEAM: Failed to parse setting from key mod value hoi4
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name mrerreur
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value mrerreur
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data password 0
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: STEAM: Failed to parse setting from key password value 0
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data status STARTING
+[2019.03.28-00.32.36:074][271]LogOnline: Warning: STEAM: Failed to parse setting from key status value STARTING
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data tags joinifyouwant
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: STEAM: Failed to parse setting from key tags value joinifyouwant
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data version Ironclad v1.6.1 (55d5)
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: STEAM: Failed to parse setting from key version value Ironclad v1.6.1 (55d5)
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2019.03.28-00.32.36:075][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data __gameserverSteamID 90124598633314305
+[2019.03.28-00.32.36:076][271]LogOnline: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90124598633314305
+[2019.03.28-00.32.36:076][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017AF81D]'
+[2019.03.28-00.32.36:084][271]LogOnline: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000116, GetBuildUniqueId() = 0x0040486f
+[2019.03.28-00.32.36:084][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x18600000179B648]'
+[2019.03.28-00.32.36:084][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data branch default
+[2019.03.28-00.32.36:084][271]LogOnline: Warning: STEAM: Failed to parse setting from key branch value default
+[2019.03.28-00.32.36:084][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data code_version 1640555
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: STEAM: Failed to parse setting from key code_version value 1640555
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data content_version 0
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: STEAM: Failed to parse setting from key content_version value 0
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data ip_country gb
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: STEAM: Failed to parse setting from key ip_country value gb
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name Raj Packet's server
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value Raj Packet's server
+[2019.03.28-00.32.36:085][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017AF0F8]'
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinaryData AAAACgAAAAAA/////wEAAEJlYXN0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAQL13a0ABQALAE8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinaryData value AAAACgAAAAAA/////wEAAEJlYXN0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAQL13a0ABQALAE8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinarySize 134
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinarySize value 134
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data CreationDate 20190327220502
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: STEAM: Failed to parse setting from key CreationDate value 20190327220502
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MemberList {"76561198009933229": {"Name":"Beast","HR":"5"},"76561198021925975": {"Name":"Alicianna","HR":"2"}}
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198009933229": {"Name":"Beast","HR":"5"},"76561198021925975": {"Name":"Alicianna","HR":"2"}}
+[2019.03.28-00.32.36:086][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name Beastwithin
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value Beastwithin
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data OwnerID 0110000102F5DDAD
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: STEAM: Failed to parse setting from key OwnerID value 0110000102F5DDAD
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey0 537034868
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537034868
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey1 0
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey1 value 0
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey3 1
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey3 value 1
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey4 1
+[2019.03.28-00.32.36:087][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey4 value 1
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey5 999999
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey5 value 999999
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey7 5
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey7 value 5
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2019.03.28-00.32.36:088][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicOpen 14
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 14
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x18600000179C010]'
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinaryData QWxpY2lhbm5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABA6zcVwADABQLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFADIMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACoCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAABLQAAAABcnBRiAAAAAFycFGIAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAQAA
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinaryData value QWxpY2lhbm5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABA6zcVwADABQLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFADIMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACoCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAABLQAAAABcnBRiAAAAAFycFGIAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAQAA
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data BinarySize 240
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: STEAM: Failed to parse setting from key BinarySize value 240
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data CreationDate 20190328002507
+[2019.03.28-00.32.36:089][271]LogOnline: Warning: STEAM: Failed to parse setting from key CreationDate value 20190328002507
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data MemberList {}
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: STEAM: Failed to parse setting from key MemberList value {}
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name Kevlar
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value Kevlar
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data OwnerID 0110000103ACDC57
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: STEAM: Failed to parse setting from key OwnerID value 0110000103ACDC57
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey0 163956
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey0 value 163956
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey1 3
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey1 value 3
+[2019.03.28-00.32.36:090][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey3 300000
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey3 value 300000
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey4 3
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey4 value 3
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey5 1
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey5 value 1
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey6 2
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey6 value 2
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKey7 0
+[2019.03.28-00.32.36:091][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKey7 value 0
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicMax 4
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 4
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data SlotPublicOpen 3
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 3
+[2019.03.28-00.32.36:092][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017B1350]'
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data armed merchants 0
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: STEAM: Failed to parse setting from key armed merchants value 0
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data carriers 0
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: STEAM: Failed to parse setting from key carriers value 0
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data creator lynn
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: STEAM: Failed to parse setting from key creator value lynn
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data crew00 76561198035008055
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: STEAM: Failed to parse setting from key crew00 value 76561198035008055
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data day 1
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: STEAM: Failed to parse setting from key day value 1
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data difficulty 0
+[2019.03.28-00.32.36:093][271]LogOnline: Warning: STEAM: Failed to parse setting from key difficulty value 0
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data escorts 0
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: STEAM: Failed to parse setting from key escorts value 0
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data fog 5000
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: STEAM: Failed to parse setting from key fog value 5000
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data GameMode 0
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: STEAM: Failed to parse setting from key GameMode value 0
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data gameStarted True
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: STEAM: Failed to parse setting from key gameStarted value True
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data gameState 1
+[2019.03.28-00.32.36:094][271]LogOnline: Warning: STEAM: Failed to parse setting from key gameState value 1
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data latitude 56.45535
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: STEAM: Failed to parse setting from key latitude value 56.45535
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data level 0
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: STEAM: Failed to parse setting from key level value 0
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data Location 0
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: STEAM: Failed to parse setting from key Location value 0
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data longitude 33.40157
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: STEAM: Failed to parse setting from key longitude value 33.40157
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data mapOffsetX 16243
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: STEAM: Failed to parse setting from key mapOffsetX value 16243
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data mapOffsetZ -11647
+[2019.03.28-00.32.36:095][271]LogOnline: Warning: STEAM: Failed to parse setting from key mapOffsetZ value -11647
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data merchants 0
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: STEAM: Failed to parse setting from key merchants value 0
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data month 9
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: STEAM: Failed to parse setting from key month value 9
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data numCrews 1
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: STEAM: Failed to parse setting from key numCrews value 1
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data respawnTimer 1
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: STEAM: Failed to parse setting from key respawnTimer value 1
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data time 22.74252
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: STEAM: Failed to parse setting from key time value 22.74252
+[2019.03.28-00.32.36:096][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data tonnage 15000
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: STEAM: Failed to parse setting from key tonnage value 15000
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data version Version 0.14
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: STEAM: Failed to parse setting from key version value Version 0.14
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data weather 0
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: STEAM: Failed to parse setting from key weather value 0
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data year 1939
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: STEAM: Failed to parse setting from key year value 1939
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017AE8D2]'
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data actual_password 0644ab1a107e1fddf2d58294b1be9e74
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: STEAM: Failed to parse setting from key actual_password value 0644ab1a107e1fddf2d58294b1be9e74
+[2019.03.28-00.32.36:097][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data desc Stellaris
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: STEAM: Failed to parse setting from key desc value Stellaris
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data mod Stellaris
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: STEAM: Failed to parse setting from key mod value Stellaris
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name BladeNahul
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value BladeNahul
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data password 1
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: STEAM: Failed to parse setting from key password value 1
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data status RUNNING;Le Guin v2.2.6 (8645);0644ab1a107e1fddf2d58294b1be9e74
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: STEAM: Failed to parse setting from key status value RUNNING;Le Guin v2.2.6 (8645);0644ab1a107e1fddf2d58294b1be9e74
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data version Le Guin v2.2.6 (8645)
+[2019.03.28-00.32.36:098][271]LogOnline: Warning: STEAM: Failed to parse setting from key version value Le Guin v2.2.6 (8645)
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data __gameserverSteamID 90124597996738567
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90124597996738567
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017B072B]'
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data guid afa5f747-d64f-4d6f-be27-d35e0b97b495
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: STEAM: Failed to parse setting from key guid value afa5f747-d64f-4d6f-be27-d35e0b97b495
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name Easy Credit (atlascom89)
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value Easy Credit (atlascom89)
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017B23B8]'
+[2019.03.28-00.32.36:099][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data mode 1
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: STEAM: Failed to parse setting from key mode value 1
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data RNG -1295573815
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: STEAM: Failed to parse setting from key RNG value -1295573815
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data ua 30786399518091
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: STEAM: Failed to parse setting from key ua value 30786399518091
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data VS 44233
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: STEAM: Failed to parse setting from key VS value 44233
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017B2444]'
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data cname DE
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: STEAM: Failed to parse setting from key cname value DE
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data created_by_mp_steam_controller 1
+[2019.03.28-00.32.36:100][271]LogOnline: Warning: STEAM: Failed to parse setting from key created_by_mp_steam_controller value 1
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data platform WIN
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: STEAM: Failed to parse setting from key platform value WIN
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data type 05DE
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: STEAM: Failed to parse setting from key type value 05DE
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x18600000179DC07]'
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data appVersion 1189042
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: STEAM: Failed to parse setting from key appVersion value 1189042
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data assemblerMultiplier 3
+[2019.03.28-00.32.36:101][271]LogOnline: Warning: STEAM: Failed to parse setting from key assemblerMultiplier value 3
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data blocksInventoryMultiplier 1
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: STEAM: Failed to parse setting from key blocksInventoryMultiplier value 1
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data dataHash qzvI+jLgpWvynd6lHIBXuhdnHQU=
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: STEAM: Failed to parse setting from key dataHash value qzvI+jLgpWvynd6lHIBXuhdnHQU=
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data experimentalMode False
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: STEAM: Failed to parse setting from key experimentalMode value False
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data GameMode 1
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: STEAM: Failed to parse setting from key GameMode value 1
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data grinderMultiplier 2
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: STEAM: Failed to parse setting from key grinderMultiplier value 2
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data Host Rechargeable
+[2019.03.28-00.32.36:102][271]LogOnline: Warning: STEAM: Failed to parse setting from key Host value Rechargeable
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data inventoryMultiplier 3
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: STEAM: Failed to parse setting from key inventoryMultiplier value 3
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data LobbyType FriendsOnly
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: STEAM: Failed to parse setting from key LobbyType value FriendsOnly
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data mods 0
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: STEAM: Failed to parse setting from key mods value 0
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data name Rechargeable's game
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: STEAM: Failed to parse setting from key name value Rechargeable's game
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data refineryMultiplier 3
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: STEAM: Failed to parse setting from key refineryMultiplier value 3
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data scenario False
+[2019.03.28-00.32.36:103][271]LogOnline: Warning: STEAM: Failed to parse setting from key scenario value False
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data View 15000
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: STEAM: Failed to parse setting from key View value 15000
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data welderMultiplier 2
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: STEAM: Failed to parse setting from key welderMultiplier value 2
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data world ???????????????? ?????????????? 2019-03-23 21:0811????????
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: STEAM: Failed to parse setting from key world value ???????????????? ?????????????? 2019-03-23 21:0811????????
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data worldSize 1073939
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: STEAM: Failed to parse setting from key worldSize value 1073939
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017A5F97]'
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data cname 109775240941874006
+[2019.03.28-00.32.36:104][271]LogOnline: Warning: STEAM: Failed to parse setting from key cname value 109775240941874006
+[2019.03.28-00.32.36:105][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data platform WIN
+[2019.03.28-00.32.36:105][271]LogOnline: Warning: STEAM: Failed to parse setting from key platform value WIN
+[2019.03.28-00.32.36:105][271]LogOnline: Warning: Unknown or unsupported data type from Steam key data type 04109775240941874006
+[2019.03.28-00.32.36:105][271]LogOnline: Warning: STEAM: Failed to parse setting from key type value 04109775240941874006
+[2019.03.28-00.32.36:105][271]LogOnline: Warning: STEAM: Unable to parse search result for lobby 'Lobby [0x1860000017947BC]'
+[2019.03.28-00.32.37:724][366]LogNet: Browse: steam.76561198105029782//Game/ThirdPersonBP/Maps/MainMenu
+[2019.03.28-00.32.37:724][366]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.28-00.32.37:724][366]LogTemp: Display: ParseSettings for SteamNetDriver_0
+[2019.03.28-00.32.37:724][366]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.03.28-00.32.37:724][366]LogNet: Display: SteamNetDriver_0 bound to port 7777
+[2019.03.28-00.32.37:725][366]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.03.28-00.32.37:725][366]LogNet: Game client on port 7777, rate 10000
+[2019.03.28-00.32.41:717][613]LogHandshake: SendChallengeResponse. Timestamp: 9.994308, Cookie: 194135030205102193227247070010063022208051111037196072131094
+[2019.03.28-00.32.41:732][614]LogHandshake: SendChallengeResponse. Timestamp: 10.026567, Cookie: 006089121114102029113159027088009145186034082040008178129224
+[2019.03.28-00.32.41:733][614]LogHandshake: SendChallengeResponse. Timestamp: 10.026567, Cookie: 006089121114102029113159027088009145186034082040008178129224
+[2019.03.28-00.32.41:734][614]LogHandshake: SendChallengeResponse. Timestamp: 10.026567, Cookie: 006089121114102029113159027088009145186034082040008178129224
+[2019.03.28-00.32.41:734][614]LogNetVersion: PeopleWithGuns 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3703576562)
+[2019.03.28-00.32.41:734][614]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 76561198105029782:7777, Name: SteamNetConnection_0, Driver: PendingNetDriver SteamNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.03.28-00.32.41:798][618]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/Lobby, Game: /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2019.03.28-00.32.41:801][618]LogLoad: LoadMap: steam.76561198105029782//Game/ThirdPersonBP/Maps/Lobby?game=/Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2019.03.28-00.32.41:803][618]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.03.28-00.32.42:898][618]LogAIModule: Creating AISystem for world Lobby
+[2019.03.28-00.32.42:898][618]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.03.28-00.32.42:900][618]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Lobby.Lobby up for play (max tick rate 0) at 2019.03.28-01.32.42
+[2019.03.28-00.32.42:900][618]LogWorld: Bringing up level for play took: 0.001903
+[2019.03.28-00.32.42:901][618]LogLoad: Took 1.099875 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Lobby)
+[2019.03.28-00.32.43:548][620]LogBlueprintUserMessages: [LobbyPC_C_0] Saving worked !
+[2019.03.28-00.32.45:923][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-00.32.47:486][756]LogWorld: SeamlessTravel to: /Game/ThirdPersonBP/Maps/Arena01
+[2019.03.28-00.32.47:570][757]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2019.03.28-00.32.47:571][757]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/TravelMap.TravelMap up for play (max tick rate 0) at 2019.03.28-01.32.47
+[2019.03.28-00.32.47:572][757]LogWorld: Bringing up level for play took: 0.001687
+[2019.03.28-00.32.47:572][757]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: LobbyPC_C_0
+[2019.03.28-00.32.47:572][757]LogNet: Verbose: NotifyLoadedWorld Begin
+[2019.03.28-00.32.47:572][757]LogNet: VeryVerbose: GetFunctionCallspace RemoteRole Remote ServerNotifyLoadedWorld
+[2019.03.28-00.32.47:572][757]LogNetTraffic:       Sent RPC: LobbyPC_C /Game/ThirdPersonBP/Maps/TravelMap.TravelMap:PersistentLevel.LobbyPC_C_0::ServerNotifyLoadedWorld [48.4 bytes]
+[2019.03.28-00.32.47:572][757]LogNetTraffic: VeryVerbose: Sending: FOutBunch: Channel[2] ChSequence: 293 NumBits: 387 PacketId: 0 bOpen: 0 bClose: 0 bDormant: 0 bIsReplicationPaused: 0 bReliable: 1 bPartial: 0//0//0 bHasPackageMapExports: 0 
+[2019.03.28-00.32.47:572][757]LogNetTraffic: Verbose: UNetConnection::SendRawBunch. ChIndex: 2. Bits: 387. PacketId: 3503
+[2019.03.28-00.32.47:572][757]LogNet: Verbose: NotifyLoadedWorld End
+[2019.03.28-00.32.47:572][757]LogWorld: StartLoadingDestination to: /Game/ThirdPersonBP/Maps/Arena01
+[2019.03.28-00.32.47:886][767]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2019.03.28-00.32.47:890][767]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Arena01.Arena01 up for play (max tick rate 0) at 2019.03.28-01.32.47
+[2019.03.28-00.32.47:890][767]LogWorld: Bringing up level for play took: 0.004494
+[2019.03.28-00.32.47:891][767]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: LobbyPC_C_0
+[2019.03.28-00.32.47:891][767]LogNet: Verbose: NotifyLoadedWorld Begin
+[2019.03.28-00.32.47:891][767]LogNet: VeryVerbose: GetFunctionCallspace RemoteRole Remote ServerNotifyLoadedWorld
+[2019.03.28-00.32.47:891][767]LogNetTraffic:       Sent RPC: LobbyPC_C /Game/ThirdPersonBP/Maps/Arena01.Arena01:PersistentLevel.LobbyPC_C_0::ServerNotifyLoadedWorld [46.4 bytes]
+[2019.03.28-00.32.47:891][767]LogNetTraffic: VeryVerbose: Sending: FOutBunch: Channel[2] ChSequence: 294 NumBits: 371 PacketId: 0 bOpen: 0 bClose: 0 bDormant: 0 bIsReplicationPaused: 0 bReliable: 1 bPartial: 0//0//0 bHasPackageMapExports: 0 
+[2019.03.28-00.32.47:891][767]LogNetTraffic: Verbose: UNetConnection::SendRawBunch. ChIndex: 2. Bits: 371. PacketId: 3513
+[2019.03.28-00.32.47:891][767]LogNet: Verbose: NotifyLoadedWorld End
+[2019.03.28-00.32.47:891][767]LogWorld: ----SeamlessTravel finished in 0.41 seconds ------
+[2019.03.28-00.32.48:355][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-00.32.48:551][774]LogScript: Warning: Script Msg: DestroySessionCallback - Invalid player state
+[2019.03.28-00.32.48:772][782]LogOnline: Warning: STEAM: No game present to join for session (GameSession)
+[2019.03.28-00.32.56:792][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Hit !
+[2019.03.28-00.32.56:921][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Hit !
+[2019.03.28-00.32.57:048][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Hit !
+[2019.03.28-00.32.57:175][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Hit !
+[2019.03.28-00.32.57:304][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Hit !
+[2019.03.28-00.32.57:434][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Hit !
+[2019.03.28-00.32.57:466][ 67]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:498][ 68]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:530][ 69]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:563][ 70]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:596][ 71]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:629][ 72]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:663][ 73]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:697][ 74]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:731][ 75]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:766][ 76]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:802][ 77]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:838][ 78]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:874][ 79]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:913][ 80]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:952][ 81]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.57:988][ 82]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:026][ 83]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:063][ 84]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:101][ 85]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:142][ 86]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:183][ 87]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:222][ 88]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:259][ 89]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:296][ 90]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:333][ 91]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:371][ 92]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:410][ 93]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:451][ 94]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:490][ 95]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:532][ 96]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:572][ 97]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:611][ 98]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:651][ 99]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:689][100]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:728][101]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:768][102]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:809][103]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:850][104]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:889][105]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:929][106]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.58:969][107]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:008][108]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:049][109]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:087][110]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:125][111]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:167][112]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:208][113]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:250][114]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:291][115]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:331][116]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:369][117]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:410][118]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:449][119]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:487][120]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:525][121]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:564][122]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:603][123]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:644][124]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:684][125]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:722][126]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:761][127]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:799][128]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:837][129]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:876][130]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:914][131]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:953][132]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.32.59:991][133]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:032][134]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:073][135]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:112][136]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:153][137]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:192][138]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:231][139]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:270][140]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:307][141]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:346][142]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:384][143]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:425][144]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:464][145]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:504][146]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:543][147]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:581][148]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:619][149]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:658][150]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:697][151]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:735][152]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:774][153]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:815][154]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:855][155]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:896][156]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:934][157]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.00:972][158]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:011][159]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:049][160]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:087][161]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:125][162]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:164][163]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:202][164]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:242][165]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:282][166]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:322][167]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:361][168]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:399][169]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:438][170]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:477][171]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:515][172]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:554][173]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:592][174]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:630][175]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:670][176]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:710][177]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:750][178]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:789][179]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:827][180]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:866][181]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:903][182]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:942][183]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.01:980][184]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:018][185]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:056][186]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:095][187]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:135][188]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:175][189]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:214][190]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:253][191]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:291][192]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:330][193]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:368][194]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:409][195]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:449][196]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:488][197]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:529][198]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:567][199]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:606][200]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:645][201]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:682][202]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:722][203]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:760][204]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:798][205]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:836][206]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:876][207]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:917][208]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:956][209]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.02:994][210]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:032][211]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:071][212]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:111][213]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:148][214]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:186][215]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:225][216]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:266][217]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_C_1. Function TellServerStartDying will not be processed.
+[2019.03.28-00.33.03:367][218]LogSlate: Window 'PeopleWithGuns (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.03.28-00.33.03:369][218]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.28-00.33.03:382][218]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.28-00.33.03:391][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-00.33.03:391][218]LogEngine: All Windows Closed
+[2019.03.28-00.33.03:391][218]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.03.28-00.33.03:409][219]LogNet: World NetDriver shutdown SteamNetDriver_0 [GameNetDriver]
+[2019.03.28-00.33.03:409][219]LogNet: DestroyNamedNetDriver SteamNetDriver_0 [GameNetDriver]
+[2019.03.28-00.33.03:410][219]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 76561198105029782:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: NO, PC: GameplayPC_C_0, Owner: GameplayPC_C_0, UniqueId: STEAM:malo.breger [0x110000137FCC4DE], Channels: 13, Time: 2019.03.28-00.33.03
+[2019.03.28-00.33.03:410][219]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198105029782:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: NO, PC: GameplayPC_C_0, Owner: GameplayPC_C_0, UniqueId: STEAM:malo.breger [0x110000137FCC4DE]
+[2019.03.28-00.33.03:411][219]LogExit: GameNetDriver SteamNetDriver_0 shut down
+[2019.03.28-00.33.04:213][219]LogExit: Preparing to exit.
+[2019.03.28-00.33.04:213][219]LogMoviePlayer: Shutting down movie player
+[2019.03.28-00.33.04:665][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.28-00.33.04:686][219]LogExit: Game engine shut down
+[2019.03.28-00.33.04:816][219]LogExit: Object subsystem successfully closed.
+[2019.03.28-00.33.04:831][219]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.28-00.33.04:835][219]LogD3D11RHI: Shutdown
+[2019.03.28-00.33.04:835][219]LogD3D11RHI: CleanupD3DDevice
+[2019.03.28-00.33.04:844][219]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (372)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module SequenceRecorder (370)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module AutomationController (368)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module AutomationWorker (366)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module AIModule (364)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module AITestSuite (361)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module NavigationSystem (359)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (356)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (354)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (352)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (350)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (348)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (346)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module CharacterAI (344)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module SessionServices (342)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (340)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (338)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module MovieScene (336)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (334)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module PortalServices (332)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module PortalRpc (330)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module MessagingRpc (328)
+[2019.03.28-00.33.04:852][219]LogModuleManager: Shutting down and abandoning module ProfilerService (326)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module TaskGraph (324)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module OculusInput (320)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (318)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module EditableMesh (316)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module AudioCapture (310)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (302)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (300)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module MediaCompositing (298)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module LinearTimecode (296)
+[2019.03.28-00.33.04:943][219]LogModuleManager: Shutting down and abandoning module ImgMedia (294)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module HTML5Networking (292)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (290)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (289)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module GeometryCache (286)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (285)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module BackChannel (282)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module AppleVision (280)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module AppleImageUtils (278)
+[2019.03.28-00.33.04:947][219]LogModuleManager: Shutting down and abandoning module DatasmithContent (276)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (274)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module CryptoKeys (272)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (270)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (268)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (264)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module UObjectPlugin (262)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (260)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (258)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module SourceControl (257)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (254)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (252)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (250)
+[2019.03.28-00.33.04:948][219]LogModuleManager: Shutting down and abandoning module PhysXVehicles (248)
+[2019.03.28-00.33.04:949][219]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (246)
+[2019.03.28-00.33.04:949][219]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (244)
+[2019.03.28-00.33.04:949][219]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (242)
+[2019.03.28-00.33.04:949][219]LogModuleManager: Shutting down and abandoning module ActorSequence (240)
+[2019.03.28-00.33.04:949][219]LogModuleManager: Shutting down and abandoning module UdpMessaging (238)
+[2019.03.28-00.33.05:050][219]LogModuleManager: Shutting down and abandoning module TcpMessaging (236)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (234)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module FacialAnimation (230)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module DataValidation (228)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module TreeMap (225)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (222)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module AISupportModule (220)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2019.03.28-00.33.05:629][219]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (216)
+[2019.03.28-00.33.05:630][219]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (214)
+[2019.03.28-00.33.05:630][219]LogModuleManager: Shutting down and abandoning module WmfMedia (212)
+[2019.03.28-00.33.05:631][219]LogModuleManager: Shutting down and abandoning module Media (211)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module PacketHandler (208)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (206)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (204)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module MediaAssets (202)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module Overlay (200)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module OverlayEditor (199)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module VREditor (196)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module StringTableEditor (194)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (192)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (190)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module FunctionalTesting (188)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (186)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (185)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module UMG (182)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module UMGEditor (181)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module Sequencer (180)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module MessageLog (177)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module SlateReflector (172)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module Slate (170)
+[2019.03.28-00.33.05:638][219]LogModuleManager: Shutting down and abandoning module EditorStyle (168)
+[2019.03.28-00.33.05:639][219]LogModuleManager: Shutting down and abandoning module MRMesh (166)
+[2019.03.28-00.33.05:639][219]LogModuleManager: Shutting down and abandoning module Messaging (164)
+[2019.03.28-00.33.05:639][219]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (162)
+[2019.03.28-00.33.05:639][219]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (160)
+[2019.03.28-00.33.05:639][219]LogModuleManager: Shutting down and abandoning module XAudio2 (158)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module Networking (156)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module Core (154)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module LevelSequence (152)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module KismetCompiler (150)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module MeshUtilities (148)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (147)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (146)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (145)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (143)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (141)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (139)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module MaterialBaking (135)
+[2019.03.28-00.33.05:640][219]LogModuleManager: Shutting down and abandoning module DerivedDataCache (130)
+[2019.03.28-00.33.05:825][219]LogDerivedDataCache: Shutdown
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module XGEController (128)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module TargetPlatform (126)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (125)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (123)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (121)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (119)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (117)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (115)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (113)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (111)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (109)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (107)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module ImageWrapper (106)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (103)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (101)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (99)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (97)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (95)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (93)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (91)
+[2019.03.28-00.33.05:825][219]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (89)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.03.28-00.33.05:826][219]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.03.28-00.33.05:826][219]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.03.28-00.33.05:855][219]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.03.28-00.33.05:855][219]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.03.28-00.33.05:855][219]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.03.28-00.33.05:870][219]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.03.28-00.33.05:873][219]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.03.28-00.33.05:874][219]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.28-00.33.05:874][219]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.28-00.33.05:875][219]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.28-00.33.05:875][219]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.28-00.33.05:875][219]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.28-00.33.05:875][219]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.28-00.33.05:876][219]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.28-00.33.05:879][219]LogExit: Exiting.
+[2019.03.28-00.33.05:887][219]Log file closed, 03/28/19 01:33:05
